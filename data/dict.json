@@ -1,0 +1,7145 @@
+{
+  "booster": [
+    { "item": "abis", "value": 2 },
+    { "item": "agak", "value": -1 },
+    { "item": "amat", "value": 2 },
+    { "item": "banget", "value": 1 },
+    { "item": "beberapa", "value": -1 },
+    { "item": "benar-benar", "value": 1 },
+    { "item": "betul-betul", "value": 1 },
+    { "item": "hanya", "value": -1 },
+    { "item": "jauh", "value": 2 },
+    { "item": "kadang-kadang", "value": -1 },
+    { "item": "kali", "value": 1 },
+    { "item": "kira-kira", "value": -1 },
+    { "item": "kurang", "value": -2 },
+    { "item": "lebih", "value": 1 },
+    { "item": "mending", "value": 1 },
+    { "item": "mungkin", "value": -1 },
+    { "item": "paling", "value": 1 },
+    { "item": "pasti", "value": 1 },
+    { "item": "sangat", "value": 2 },
+    { "item": "seakan-akan", "value": -1 },
+    { "item": "sedikit", "value": -2 },
+    { "item": "sekali", "value": 1 },
+    { "item": "semakin", "value": 1 },
+    { "item": "sempurna", "value": 1 },
+    { "item": "sungguh", "value": 1 },
+    { "item": "tambah", "value": 1 },
+    { "item": "telak", "value": 1 },
+    { "item": "terkadang", "value": -1 },
+    { "item": "terlalu", "value": 2 },
+    { "item": "terus-terusan", "value": 1 }
+  ],
+  "emoticon": [
+    { "item": "^^v", "value": 4 },
+    { "item": "^_^", "value": 4 },
+    { "item": "xp", "value": -4 },
+    { "item": "^^V", "value": 4 },
+    { "item": "xd", "value": 2 },
+    { "item": "xo", "value": 2 },
+    { "item": "d:", "value": -4 },
+    { "item": "o.o", "value": -3 },
+    { "item": "o_o", "value": -3 },
+    { "item": "x(", "value": -4 },
+    { "item": "x-(", "value": -4 },
+    { "item": "^^", "value": 4 },
+    { "item": "}:)", "value": -4 },
+    { "item": ";)", "value": 4 },
+    { "item": "%-)", "value": 3 },
+    { "item": "%-(", "value": -3 },
+    { "item": "(:", "value": 3 },
+    { "item": "(-:", "value": 3 },
+    { "item": "(o;", "value": 3 },
+    { "item": "(o:", "value": 3 },
+    { "item": ";))", "value": 4 },
+    { "item": ")-:", "value": -3 },
+    { "item": "\":", "value": -5 },
+    { "item": "*_*", "value": -2 },
+    { "item": "):", "value": -3 },
+    { "item": "--\"", "value": -4 },
+    { "item": "--", "value": -3 },
+    { "item": "(^ ^)", "value": 4 },
+    { "item": ":\"(", "value": -5 }
+  ],
+  "idiom": [
+    { "item": "acungi jempol", "value": 5 },
+    { "item": "anak alay", "value": -4 },
+    { "item": "anak emas", "value": 4 },
+    { "item": "banting tulang", "value": 2 },
+    { "item": "banyak akal", "value": 4 },
+    { "item": "batu kubur", "value": -4 },
+    { "item": "berbunga-bunga", "value": 4 },
+    { "item": "berdarah indonesia", "value": 1 },
+    { "item": "bersilat lidah", "value": -4 },
+    { "item": "berteman baik", "value": 1 },
+    { "item": "besar kepala", "value": -4 },
+    { "item": "besar mulut", "value": -4 },
+    { "item": "buah bibir", "value": -4 },
+    { "item": "buah hati", "value": 1 },
+    { "item": "bunga tidur", "value": -1 },
+    { "item": "bunuh diri", "value": -5 },
+    { "item": "campur tangan", "value": -4 },
+    { "item": "cari perhatian", "value": -4 },
+    { "item": "celana pendek", "value": 1 },
+    { "item": "cinta mati", "value": 5 },
+    { "item": "cuci otak", "value": -4 },
+    { "item": "darah biru", "value": -2 },
+    { "item": "dicuci otak", "value": -4 },
+    { "item": "diva dunia", "value": 5 },
+    { "item": "empat mata", "value": 1 },
+    { "item": "entertainer sejati", "value": 4 },
+    { "item": "gelap mata", "value": -4 },
+    { "item": "generasi cinta", "value": 2 },
+    { "item": "generasi muda", "value": 1 },
+    { "item": "goyang pantura", "value": -5 },
+    { "item": "hilir mudik", "value": -1 },
+    { "item": "jago merah", "value": -1 },
+    { "item": "jatuh hati", "value": 4 },
+    { "item": "kambing hitam", "value": -4 },
+    { "item": "katak dalam tempurung", "value": -4 },
+    { "item": "kebakaran jenggot", "value": -3 },
+    { "item": "kepala batu", "value": -4 },
+    { "item": "keras kepala", "value": -4 },
+    { "item": "kocok botol", "value": -4 },
+    { "item": "kumpul kebo", "value": -4 },
+    { "item": "lancang mulut", "value": -4 },
+    { "item": "liang lahat", "value": -4 },
+    { "item": "lintah darat", "value": -4 },
+    { "item": "luar biasa", "value": 4 },
+    { "item": "lupa tanggal", "value": -3 },
+    { "item": "lurus hati", "value": 3 },
+    { "item": "main mata", "value": -3 },
+    { "item": "mata duitan", "value": -4 },
+    { "item": "mata mata", "value": -2 },
+    { "item": "mata rantai", "value": 1 },
+    { "item": "mata sapi", "value": 1 },
+    { "item": "mata-mata", "value": -2 },
+    { "item": "meja hijau", "value": -1 },
+    { "item": "menangkan hadiah", "value": 1 },
+    { "item": "merampok grammy", "value": 4 },
+    { "item": "merasa lebih tahu", "value": -4 },
+    { "item": "naik darah", "value": 4 },
+    { "item": "oke deh", "value": 1 },
+    { "item": "omong doang", "value": -4 },
+    { "item": "orang gila", "value": -4 },
+    { "item": "otak udang", "value": -4 },
+    { "item": "panas hati", "value": -4 },
+    { "item": "panjang tangan", "value": -4 },
+    { "item": "papan atas", "value": 4 },
+    { "item": "pasang mata", "value": 1 },
+    { "item": "pelosok nusantara", "value": 1 },
+    { "item": "pemberitaan palsu", "value": -5 },
+    { "item": "pendek akal", "value": -4 },
+    { "item": "pendek pikiran", "value": -4 },
+    { "item": "pendek umur", "value": -3 },
+    { "item": "penggemar berat", "value": 5 },
+    { "item": "penyanyi berkelas internasional", "value": 5 },
+    { "item": "percaya diri", "value": 4 },
+    { "item": "ramai diperbincangkan", "value": 4 },
+    { "item": "rendah hati", "value": 4 },
+    { "item": "ringan mulut", "value": -4 },
+    { "item": "ringan tangan", "value": -4 },
+    { "item": "salah satu", "value": -1 },
+    { "item": "selamat beristirahat", "value": 1 },
+    { "item": "selamat malam", "value": 1 },
+    { "item": "selamat pagi", "value": 1 },
+    { "item": "selamat siang", "value": 1 },
+    { "item": "selamat sore", "value": 1 },
+    { "item": "tangan besi", "value": 3 },
+    { "item": "tangan kanan", "value": 1 },
+    { "item": "tebal muka", "value": -3 },
+    { "item": "tempat ibadah", "value": 1 },
+    { "item": "terima kasih", "value": 4 },
+    { "item": "tinggi hati", "value": -4 },
+    { "item": "tuhan memberkati", "value": 5 },
+    { "item": "tukang tipu", "value": -5 },
+    { "item": "turun tangan", "value": 3 }
+  ],
+  "kata": [
+    {
+      "item": "abadi",
+      "value": 5
+    },
+    {
+      "item": "absen",
+      "value": -3
+    },
+    {
+      "item": "abu-abu",
+      "value": -1
+    },
+    {
+      "item": "acuh",
+      "value": 4
+    },
+    {
+      "item": "adil",
+      "value": 5
+    },
+    {
+      "item": "aduh",
+      "value": -2
+    },
+    {
+      "item": "agresi",
+      "value": -5
+    },
+    {
+      "item": "aib",
+      "value": -5
+    },
+    {
+      "item": "ajaib",
+      "value": 3
+    },
+    {
+      "item": "ajar",
+      "value": 4
+    },
+    {
+      "item": "akal",
+      "value": 4
+    },
+    {
+      "item": "alasan",
+      "value": -2
+    },
+    {
+      "item": "alibi",
+      "value": -4
+    },
+    {
+      "item": "alien",
+      "value": -1
+    },
+    {
+      "item": "aman",
+      "value": 4
+    },
+    {
+      "item": "ambigu",
+      "value": -3
+    },
+    {
+      "item": "ambisi",
+      "value": -2
+    },
+    {
+      "item": "amoral",
+      "value": -5
+    },
+    {
+      "item": "anarki",
+      "value": -5
+    },
+    {
+      "item": "anarkis",
+      "value": -5
+    },
+    {
+      "item": "ancaman",
+      "value": -5
+    },
+    {
+      "item": "aneh",
+      "value": -2
+    },
+    {
+      "item": "anggun",
+      "value": 4
+    },
+    {
+      "item": "angkuh",
+      "value": -5
+    },
+    {
+      "item": "anjing",
+      "value": -4
+    },
+    {
+      "item": "anomali",
+      "value": -3
+    },
+    {
+      "item": "antagoni",
+      "value": -4
+    },
+    {
+      "item": "anti-sosial",
+      "value": -4
+    },
+    {
+      "item": "antipati",
+      "value": -5
+    },
+    {
+      "item": "apes",
+      "value": -4
+    },
+    {
+      "item": "api",
+      "value": -1
+    },
+    {
+      "item": "arogan",
+      "value": -5
+    },
+    {
+      "item": "asam",
+      "value": -1
+    },
+    {
+      "item": "asap",
+      "value": -2
+    },
+    {
+      "item": "asing",
+      "value": -4
+    },
+    {
+      "item": "asli",
+      "value": 4
+    },
+    {
+      "item": "asmara",
+      "value": 4
+    },
+    {
+      "item": "astaga",
+      "value": -5
+    },
+    {
+      "item": "asyik",
+      "value": 4
+    },
+    {
+      "item": "autentik",
+      "value": 4
+    },
+    {
+      "item": "aversi",
+      "value": -4
+    },
+    {
+      "item": "awas",
+      "value": -4
+    },
+    {
+      "item": "awur",
+      "value": -4
+    },
+    {
+      "item": "ayam",
+      "value": 1
+    },
+    {
+      "item": "ayu",
+      "value": 4
+    },
+    {
+      "item": "azab",
+      "value": -5
+    },
+    {
+      "item": "babu",
+      "value": -5
+    },
+    {
+      "item": "bacot",
+      "value": -5
+    },
+    {
+      "item": "badai",
+      "value": -4
+    },
+    {
+      "item": "badut",
+      "value": -2
+    },
+    {
+      "item": "bagus",
+      "value": 4
+    },
+    {
+      "item": "bahagia",
+      "value": 4
+    },
+    {
+      "item": "bahaya",
+      "value": -4
+    },
+    {
+      "item": "baik",
+      "value": 4
+    },
+    {
+      "item": "bail",
+      "value": -2
+    },
+    {
+      "item": "bajingan",
+      "value": -5
+    },
+    {
+      "item": "bakat",
+      "value": 3
+    },
+    {
+      "item": "banci",
+      "value": -4
+    },
+    {
+      "item": "bandel",
+      "value": -4
+    },
+    {
+      "item": "bandit",
+      "value": -4
+    },
+    {
+      "item": "bangga",
+      "value": 4
+    },
+    {
+      "item": "bangkrut",
+      "value": -5
+    },
+    {
+      "item": "banjir",
+      "value": -4
+    },
+    {
+      "item": "barbari",
+      "value": -5
+    },
+    {
+      "item": "basi",
+      "value": -4
+    },
+    {
+      "item": "batu",
+      "value": -1
+    },
+    {
+      "item": "bau",
+      "value": -4
+    },
+    {
+      "item": "baut",
+      "value": 1
+    },
+    {
+      "item": "bawaan",
+      "value": -1
+    },
+    {
+      "item": "bawah",
+      "value": -1
+    },
+    {
+      "item": "bayaran",
+      "value": -3
+    },
+    {
+      "item": "beban",
+      "value": -2
+    },
+    {
+      "item": "bego",
+      "value": -5
+    },
+    {
+      "item": "bekas",
+      "value": -4
+    },
+    {
+      "item": "bekicot",
+      "value": -4
+    },
+    {
+      "item": "belahan",
+      "value": -1
+    },
+    {
+      "item": "benar",
+      "value": 4
+    },
+    {
+      "item": "bencana",
+      "value": -4
+    },
+    {
+      "item": "benci",
+      "value": -5
+    },
+    {
+      "item": "bencong",
+      "value": -5
+    },
+    {
+      "item": "bendahara",
+      "value": -1
+    },
+    {
+      "item": "bengkok",
+      "value": -2
+    },
+    {
+      "item": "bening",
+      "value": 3
+    },
+    {
+      "item": "bentrok",
+      "value": -4
+    },
+    {
+      "item": "beradab",
+      "value": 5
+    },
+    {
+      "item": "beradaptasi",
+      "value": 4
+    },
+    {
+      "item": "beragam",
+      "value": 4
+    },
+    {
+      "item": "berani",
+      "value": 4
+    },
+    {
+      "item": "berantakan",
+      "value": -4
+    },
+    {
+      "item": "berapi-api",
+      "value": 1
+    },
+    {
+      "item": "berarti",
+      "value": 3
+    },
+    {
+      "item": "berat",
+      "value": -2
+    },
+    {
+      "item": "berbagi",
+      "value": 5
+    },
+    {
+      "item": "berbahaya",
+      "value": -4
+    },
+    {
+      "item": "berbakat",
+      "value": 5
+    },
+    {
+      "item": "berbalik",
+      "value": 1
+    },
+    {
+      "item": "berbaring",
+      "value": 1
+    },
+    {
+      "item": "berbeda",
+      "value": 1
+    },
+    {
+      "item": "berbisa",
+      "value": -4
+    },
+    {
+      "item": "berbohong",
+      "value": -5
+    },
+    {
+      "item": "berbuih",
+      "value": -1
+    },
+    {
+      "item": "bercanda",
+      "value": 3
+    },
+    {
+      "item": "bercinta",
+      "value": 4
+    },
+    {
+      "item": "berdalih",
+      "value": -3
+    },
+    {
+      "item": "berdarah",
+      "value": -2
+    },
+    {
+      "item": "berdaya",
+      "value": 4
+    },
+    {
+      "item": "berdetak",
+      "value": 1
+    },
+    {
+      "item": "berdosa",
+      "value": -4
+    },
+    {
+      "item": "berduka",
+      "value": -4
+    },
+    {
+      "item": "berduri",
+      "value": -2
+    },
+    {
+      "item": "bergembira",
+      "value": 4
+    },
+    {
+      "item": "bergeming",
+      "value": -1
+    },
+    {
+      "item": "bergerak",
+      "value": 4
+    },
+    {
+      "item": "bergulat",
+      "value": -2
+    },
+    {
+      "item": "bergumam",
+      "value": 1
+    },
+    {
+      "item": "berguna",
+      "value": 4
+    },
+    {
+      "item": "berharap",
+      "value": -1
+    },
+    {
+      "item": "berharga",
+      "value": 4
+    },
+    {
+      "item": "berhasil",
+      "value": 5
+    },
+    {
+      "item": "berhenti",
+      "value": -1
+    },
+    {
+      "item": "berisiko",
+      "value": -2
+    },
+    {
+      "item": "berjanji",
+      "value": -1
+    },
+    {
+      "item": "berjuang",
+      "value": 4
+    },
+    {
+      "item": "berjudi",
+      "value": -5
+    },
+    {
+      "item": "berkabung",
+      "value": -3
+    },
+    {
+      "item": "berkaca",
+      "value": -4
+    },
+    {
+      "item": "berkarat",
+      "value": -3
+    },
+    {
+      "item": "berkat",
+      "value": 3
+    },
+    {
+      "item": "berkelas",
+      "value": 4
+    },
+    {
+      "item": "berkeliaran",
+      "value": -4
+    },
+    {
+      "item": "berkonspirasi",
+      "value": -5
+    },
+    {
+      "item": "berkualitas",
+      "value": 4
+    },
+    {
+      "item": "berkubang",
+      "value": -2
+    },
+    {
+      "item": "berkurang",
+      "value": -2
+    },
+    {
+      "item": "berlagak",
+      "value": -4
+    },
+    {
+      "item": "berlebihan",
+      "value": -4
+    },
+    {
+      "item": "berlumpur",
+      "value": -1
+    },
+    {
+      "item": "bermain",
+      "value": 3
+    },
+    {
+      "item": "bermain-main",
+      "value": -3
+    },
+    {
+      "item": "bermartabat",
+      "value": 4
+    },
+    {
+      "item": "bermegah",
+      "value": -3
+    },
+    {
+      "item": "bermoral",
+      "value": 5
+    },
+    {
+      "item": "bermusuhan",
+      "value": -4
+    },
+    {
+      "item": "bernafsu",
+      "value": -3
+    },
+    {
+      "item": "bernilai",
+      "value": 4
+    },
+    {
+      "item": "bernyawa",
+      "value": 4
+    },
+    {
+      "item": "berongga",
+      "value": -1
+    },
+    {
+      "item": "berpendapat",
+      "value": 4
+    },
+    {
+      "item": "berpengaruh",
+      "value": 3
+    },
+    {
+      "item": "berperang",
+      "value": -4
+    },
+    {
+      "item": "berprestasi",
+      "value": 4
+    },
+    {
+      "item": "berpura-pura",
+      "value": -4
+    },
+    {
+      "item": "bersaing",
+      "value": 1
+    },
+    {
+      "item": "bersalah",
+      "value": -3
+    },
+    {
+      "item": "bersantai",
+      "value": -1
+    },
+    {
+      "item": "bersedih",
+      "value": -2
+    },
+    {
+      "item": "berselisih",
+      "value": -4
+    },
+    {
+      "item": "bersemangat",
+      "value": 4
+    },
+    {
+      "item": "bersenjata",
+      "value": -2
+    },
+    {
+      "item": "berserakan",
+      "value": -4
+    },
+    {
+      "item": "bersih",
+      "value": 5
+    },
+    {
+      "item": "bersukacita",
+      "value": 4
+    },
+    {
+      "item": "bersumpah",
+      "value": -1
+    },
+    {
+      "item": "bertabrakan",
+      "value": -2
+    },
+    {
+      "item": "bertengkar",
+      "value": -4
+    },
+    {
+      "item": "bertentangan",
+      "value": -2
+    },
+    {
+      "item": "berturut-turut",
+      "value": -1
+    },
+    {
+      "item": "berubah-ubah",
+      "value": -1
+    },
+    {
+      "item": "beruntung",
+      "value": 4
+    },
+    {
+      "item": "berutang",
+      "value": -2
+    },
+    {
+      "item": "besar",
+      "value": 3
+    },
+    {
+      "item": "betah",
+      "value": 3
+    },
+    {
+      "item": "betul",
+      "value": 4
+    },
+    {
+      "item": "biasa",
+      "value": -2
+    },
+    {
+      "item": "biaya",
+      "value": -2
+    },
+    {
+      "item": "bijak",
+      "value": 4
+    },
+    {
+      "item": "bijaksana",
+      "value": 5
+    },
+    {
+      "item": "bilangnya",
+      "value": -2
+    },
+    {
+      "item": "binasa",
+      "value": -4
+    },
+    {
+      "item": "binatang",
+      "value": -2
+    },
+    {
+      "item": "bingung",
+      "value": -3
+    },
+    {
+      "item": "bisanya",
+      "value": -2
+    },
+    {
+      "item": "blah",
+      "value": -3
+    },
+    {
+      "item": "blok",
+      "value": -1
+    },
+    {
+      "item": "blokir",
+      "value": -4
+    },
+    {
+      "item": "bloon",
+      "value": -4
+    },
+    {
+      "item": "blunder",
+      "value": -3
+    },
+    {
+      "item": "bocor",
+      "value": -3
+    },
+    {
+      "item": "bodoh",
+      "value": -4
+    },
+    {
+      "item": "bolos",
+      "value": -4
+    },
+    {
+      "item": "bom",
+      "value": -4
+    },
+    {
+      "item": "bonus",
+      "value": 3
+    },
+    {
+      "item": "boros",
+      "value": -4
+    },
+    {
+      "item": "bosan",
+      "value": -4
+    },
+    {
+      "item": "brengsek",
+      "value": -5
+    },
+    {
+      "item": "brillian",
+      "value": 5
+    },
+    {
+      "item": "brutal",
+      "value": -4
+    },
+    {
+      "item": "buang",
+      "value": -3
+    },
+    {
+      "item": "buangan",
+      "value": -4
+    },
+    {
+      "item": "buas",
+      "value": -3
+    },
+    {
+      "item": "buatan",
+      "value": -2
+    },
+    {
+      "item": "budek",
+      "value": -4
+    },
+    {
+      "item": "buktikan",
+      "value": 2
+    },
+    {
+      "item": "bulu",
+      "value": -1
+    },
+    {
+      "item": "bundaran",
+      "value": 1
+    },
+    {
+      "item": "bunga",
+      "value": 4
+    },
+    {
+      "item": "buntung",
+      "value": -2
+    },
+    {
+      "item": "buritan",
+      "value": -1
+    },
+    {
+      "item": "buronan",
+      "value": -4
+    },
+    {
+      "item": "buruan",
+      "value": -3
+    },
+    {
+      "item": "buruk",
+      "value": -4
+    },
+    {
+      "item": "buruknya",
+      "value": -4
+    },
+    {
+      "item": "busuk",
+      "value": -5
+    },
+    {
+      "item": "buta",
+      "value": -2
+    },
+    {
+      "item": "cabul",
+      "value": -5
+    },
+    {
+      "item": "cacat",
+      "value": -4
+    },
+    {
+      "item": "cambuk",
+      "value": -1
+    },
+    {
+      "item": "canggung",
+      "value": -2
+    },
+    {
+      "item": "cantik",
+      "value": 5
+    },
+    {
+      "item": "cantiknya",
+      "value": 4
+    },
+    {
+      "item": "cawe-cawe",
+      "value": -2
+    },
+    {
+      "item": "cedera",
+      "value": -2
+    },
+    {
+      "item": "cekcok",
+      "value": -4
+    },
+    {
+      "item": "cekikikan",
+      "value": -3
+    },
+    {
+      "item": "celaan",
+      "value": -4
+    },
+    {
+      "item": "celaka",
+      "value": -4
+    },
+    {
+      "item": "celakalah",
+      "value": -5
+    },
+    {
+      "item": "celoteh",
+      "value": -1
+    },
+    {
+      "item": "cemas",
+      "value": -3
+    },
+    {
+      "item": "cemberut",
+      "value": -3
+    },
+    {
+      "item": "cemburu",
+      "value": -3
+    },
+    {
+      "item": "cemerlang",
+      "value": 4
+    },
+    {
+      "item": "cemoohan",
+      "value": -4
+    },
+    {
+      "item": "cepat",
+      "value": 4
+    },
+    {
+      "item": "cerah",
+      "value": 4
+    },
+    {
+      "item": "cercaan",
+      "value": -4
+    },
+    {
+      "item": "cerdas",
+      "value": 5
+    },
+    {
+      "item": "cerdik",
+      "value": 4
+    },
+    {
+      "item": "ceria",
+      "value": 4
+    },
+    {
+      "item": "ceroboh",
+      "value": -4
+    },
+    {
+      "item": "cetar",
+      "value": 3
+    },
+    {
+      "item": "cinta",
+      "value": 5
+    },
+    {
+      "item": "cium",
+      "value": 3
+    },
+    {
+      "item": "cobaan",
+      "value": -3
+    },
+    {
+      "item": "cocok",
+      "value": 3
+    },
+    {
+      "item": "cong",
+      "value": -4
+    },
+    {
+      "item": "congor",
+      "value": -5
+    },
+    {
+      "item": "corong",
+      "value": 1
+    },
+    {
+      "item": "cukup",
+      "value": 3
+    },
+    {
+      "item": "cuma",
+      "value": -2
+    },
+    {
+      "item": "curang",
+      "value": -4
+    },
+    {
+      "item": "cute",
+      "value": 5
+    },
+    {
+      "item": "dahsyat",
+      "value": 4
+    },
+    {
+      "item": "damai",
+      "value": 5
+    },
+    {
+      "item": "dangkal",
+      "value": -2
+    },
+    {
+      "item": "dara",
+      "value": 3
+    },
+    {
+      "item": "darurat",
+      "value": -2
+    },
+    {
+      "item": "dasar",
+      "value": -1
+    },
+    {
+      "item": "defensif",
+      "value": -3
+    },
+    {
+      "item": "defisit",
+      "value": -3
+    },
+    {
+      "item": "delusi",
+      "value": -3
+    },
+    {
+      "item": "delusional",
+      "value": -4
+    },
+    {
+      "item": "demam",
+      "value": -3
+    },
+    {
+      "item": "dendam",
+      "value": -5
+    },
+    {
+      "item": "dengki",
+      "value": -4
+    },
+    {
+      "item": "dewasa",
+      "value": 4
+    },
+    {
+      "item": "diakui",
+      "value": 3
+    },
+    {
+      "item": "diam",
+      "value": -1
+    },
+    {
+      "item": "dibatalkan",
+      "value": -3
+    },
+    {
+      "item": "dibebaskan",
+      "value": 4
+    },
+    {
+      "item": "dibenarkan",
+      "value": 3
+    },
+    {
+      "item": "dibodohi",
+      "value": -3
+    },
+    {
+      "item": "dibubarkan",
+      "value": -3
+    },
+    {
+      "item": "dicemburui",
+      "value": 2
+    },
+    {
+      "item": "dicintai",
+      "value": 4
+    },
+    {
+      "item": "diculik",
+      "value": -4
+    },
+    {
+      "item": "dicuri",
+      "value": -4
+    },
+    {
+      "item": "didukung",
+      "value": 4
+    },
+    {
+      "item": "dihapus",
+      "value": -3
+    },
+    {
+      "item": "dihargai",
+      "value": 4
+    },
+    {
+      "item": "dihindari",
+      "value": -4
+    },
+    {
+      "item": "dihormati",
+      "value": 3
+    },
+    {
+      "item": "diinginkan",
+      "value": 4
+    },
+    {
+      "item": "dijelaskan",
+      "value": 4
+    },
+    {
+      "item": "dikagumi",
+      "value": 4
+    },
+    {
+      "item": "dikenakan",
+      "value": -2
+    },
+    {
+      "item": "diktator",
+      "value": -4
+    },
+    {
+      "item": "dilanda",
+      "value": -3
+    },
+    {
+      "item": "dilema",
+      "value": -3
+    },
+    {
+      "item": "dilihatnya",
+      "value": 1
+    },
+    {
+      "item": "dimainkan",
+      "value": 1
+    },
+    {
+      "item": "dimanjakan",
+      "value": -3
+    },
+    {
+      "item": "dinamis",
+      "value": 4
+    },
+    {
+      "item": "dingin",
+      "value": -1
+    },
+    {
+      "item": "dinyalakan",
+      "value": 1
+    },
+    {
+      "item": "dipecat",
+      "value": -4
+    },
+    {
+      "item": "dipercaya",
+      "value": 4
+    },
+    {
+      "item": "diperdebatkan",
+      "value": -3
+    },
+    {
+      "item": "diperparah",
+      "value": -4
+    },
+    {
+      "item": "dipertanyakan",
+      "value": -2
+    },
+    {
+      "item": "dipikirkan",
+      "value": 2
+    },
+    {
+      "item": "dipilih",
+      "value": 3
+    },
+    {
+      "item": "dipotong",
+      "value": -1
+    },
+    {
+      "item": "dipuji",
+      "value": 3
+    },
+    {
+      "item": "dipukuli",
+      "value": -4
+    },
+    {
+      "item": "diragukan",
+      "value": -3
+    },
+    {
+      "item": "dirampas",
+      "value": -5
+    },
+    {
+      "item": "dirugikan",
+      "value": -4
+    },
+    {
+      "item": "disayangkan",
+      "value": -3
+    },
+    {
+      "item": "diskriminasi",
+      "value": -5
+    },
+    {
+      "item": "disukai",
+      "value": 3
+    },
+    {
+      "item": "ditendang",
+      "value": -4
+    },
+    {
+      "item": "ditindas",
+      "value": -4
+    },
+    {
+      "item": "ditunggu",
+      "value": -1
+    },
+    {
+      "item": "diva",
+      "value": 4
+    },
+    {
+      "item": "doakan",
+      "value": 2
+    },
+    {
+      "item": "doang",
+      "value": -2
+    },
+    {
+      "item": "doank",
+      "value": -3
+    },
+    {
+      "item": "dodol",
+      "value": -4
+    },
+    {
+      "item": "dogmatis",
+      "value": -3
+    },
+    {
+      "item": "dominasi",
+      "value": -1
+    },
+    {
+      "item": "dosa",
+      "value": -4
+    },
+    {
+      "item": "drama",
+      "value": -2
+    },
+    {
+      "item": "duh",
+      "value": -4
+    },
+    {
+      "item": "dukung",
+      "value": 3
+    },
+    {
+      "item": "dukungan",
+      "value": 4
+    },
+    {
+      "item": "dungu",
+      "value": -4
+    },
+    {
+      "item": "duniawi",
+      "value": -3
+    },
+    {
+      "item": "dusta",
+      "value": -4
+    },
+    {
+      "item": "egois",
+      "value": -3
+    },
+    {
+      "item": "ekonomis",
+      "value": 3
+    },
+    {
+      "item": "eksentrik",
+      "value": -1
+    },
+    {
+      "item": "eksis",
+      "value": 1
+    },
+    {
+      "item": "elegan",
+      "value": 4
+    },
+    {
+      "item": "eliminasi",
+      "value": -2
+    },
+    {
+      "item": "emas",
+      "value": 4
+    },
+    {
+      "item": "emosi",
+      "value": -3
+    },
+    {
+      "item": "emosional",
+      "value": -4
+    },
+    {
+      "item": "enak",
+      "value": 4
+    },
+    {
+      "item": "eneg",
+      "value": -4
+    },
+    {
+      "item": "enerjik",
+      "value": 4
+    },
+    {
+      "item": "enggan",
+      "value": -4
+    },
+    {
+      "item": "epidemi",
+      "value": -3
+    },
+    {
+      "item": "erosi",
+      "value": -3
+    },
+    {
+      "item": "fanatik",
+      "value": -4
+    },
+    {
+      "item": "fantastis",
+      "value": 4
+    },
+    {
+      "item": "fasis",
+      "value": -4
+    },
+    {
+      "item": "firasat",
+      "value": -1
+    },
+    {
+      "item": "fitnah",
+      "value": -4
+    },
+    {
+      "item": "gagal",
+      "value": -5
+    },
+    {
+      "item": "gagalnya",
+      "value": -3
+    },
+    {
+      "item": "gagap",
+      "value": -2
+    },
+    {
+      "item": "gaib",
+      "value": -1
+    },
+    {
+      "item": "gairah",
+      "value": -1
+    },
+    {
+      "item": "ganas",
+      "value": -3
+    },
+    {
+      "item": "ganggu",
+      "value": -4
+    },
+    {
+      "item": "gangguan",
+      "value": -4
+    },
+    {
+      "item": "ganteng",
+      "value": 4
+    },
+    {
+      "item": "gedebuk",
+      "value": -2
+    },
+    {
+      "item": "gejala",
+      "value": -2
+    },
+    {
+      "item": "gejolak",
+      "value": -2
+    },
+    {
+      "item": "gelandangan",
+      "value": -3
+    },
+    {
+      "item": "gelap",
+      "value": -2
+    },
+    {
+      "item": "gelisah",
+      "value": -4
+    },
+    {
+      "item": "gemar",
+      "value": 4
+    },
+    {
+      "item": "gembira",
+      "value": 4
+    },
+    {
+      "item": "gembor",
+      "value": -4
+    },
+    {
+      "item": "gemes",
+      "value": 3
+    },
+    {
+      "item": "gemetar",
+      "value": -3
+    },
+    {
+      "item": "gemetaran",
+      "value": -3
+    },
+    {
+      "item": "gempar",
+      "value": -3
+    },
+    {
+      "item": "gencarnya",
+      "value": -2
+    },
+    {
+      "item": "genting",
+      "value": -3
+    },
+    {
+      "item": "gerah",
+      "value": -4
+    },
+    {
+      "item": "geram",
+      "value": -4
+    },
+    {
+      "item": "gerilya",
+      "value": 3
+    },
+    {
+      "item": "gerombolan",
+      "value": -3
+    },
+    {
+      "item": "gesit",
+      "value": 3
+    },
+    {
+      "item": "getah",
+      "value": -2
+    },
+    {
+      "item": "gila",
+      "value": 5
+    },
+    {
+      "item": "glamor",
+      "value": -4
+    },
+    {
+      "item": "glori",
+      "value": 3
+    },
+    {
+      "item": "godaan",
+      "value": -3
+    },
+    {
+      "item": "gosip",
+      "value": -4
+    },
+    {
+      "item": "goyah",
+      "value": -3
+    },
+    {
+      "item": "grogi",
+      "value": -3
+    },
+    {
+      "item": "gugatan",
+      "value": -3
+    },
+    {
+      "item": "gunanya",
+      "value": 3
+    },
+    {
+      "item": "gurun",
+      "value": -2
+    },
+    {
+      "item": "hadiah",
+      "value": 3
+    },
+    {
+      "item": "haha",
+      "value": 2
+    },
+    {
+      "item": "halangan",
+      "value": -3
+    },
+    {
+      "item": "halus",
+      "value": 3
+    },
+    {
+      "item": "hama",
+      "value": -4
+    },
+    {
+      "item": "hambar",
+      "value": -3
+    },
+    {
+      "item": "hancur",
+      "value": -4
+    },
+    {
+      "item": "hangat",
+      "value": 3
+    },
+    {
+      "item": "hangus",
+      "value": -3
+    },
+    {
+      "item": "haram",
+      "value": -5
+    },
+    {
+      "item": "harapan",
+      "value": 4
+    },
+    {
+      "item": "harmoni",
+      "value": 5
+    },
+    {
+      "item": "harmonik",
+      "value": 5
+    },
+    {
+      "item": "harmonisasi",
+      "value": 5
+    },
+    {
+      "item": "harumkan",
+      "value": 4
+    },
+    {
+      "item": "hati-hati",
+      "value": 4
+    },
+    {
+      "item": "haus",
+      "value": -2
+    },
+    {
+      "item": "hebat",
+      "value": 3
+    },
+    {
+      "item": "heboh",
+      "value": 2
+    },
+    {
+      "item": "hehe",
+      "value": 1
+    },
+    {
+      "item": "hero",
+      "value": 4
+    },
+    {
+      "item": "hey",
+      "value": 2
+    },
+    {
+      "item": "hikmat",
+      "value": 3
+    },
+    {
+      "item": "hiks",
+      "value": -3
+    },
+    {
+      "item": "hilang",
+      "value": -3
+    },
+    {
+      "item": "hina",
+      "value": -4
+    },
+    {
+      "item": "hinaan",
+      "value": -4
+    },
+    {
+      "item": "hiruk",
+      "value": -2
+    },
+    {
+      "item": "histeria",
+      "value": -2
+    },
+    {
+      "item": "histeris",
+      "value": -3
+    },
+    {
+      "item": "hiu",
+      "value": -1
+    },
+    {
+      "item": "hoho",
+      "value": -1
+    },
+    {
+      "item": "homo",
+      "value": -2
+    },
+    {
+      "item": "hore",
+      "value": 4
+    },
+    {
+      "item": "hormat",
+      "value": 4
+    },
+    {
+      "item": "hujat",
+      "value": -4
+    },
+    {
+      "item": "humor",
+      "value": 4
+    },
+    {
+      "item": "ibadah",
+      "value": 5
+    },
+    {
+      "item": "iblis",
+      "value": -5
+    },
+    {
+      "item": "idiot",
+      "value": -5
+    },
+    {
+      "item": "idolaku",
+      "value": 4
+    },
+    {
+      "item": "ilegal",
+      "value": -4
+    },
+    {
+      "item": "ilegalitas",
+      "value": -3
+    },
+    {
+      "item": "imajinatif",
+      "value": 4
+    },
+    {
+      "item": "iman",
+      "value": 5
+    },
+    {
+      "item": "impersonal",
+      "value": 3
+    },
+    {
+      "item": "impian",
+      "value": 4
+    },
+    {
+      "item": "impulsif",
+      "value": -3
+    },
+    {
+      "item": "imut",
+      "value": 4
+    },
+    {
+      "item": "indah",
+      "value": 4
+    },
+    {
+      "item": "indahnya",
+      "value": 4
+    },
+    {
+      "item": "inefisiensi",
+      "value": -4
+    },
+    {
+      "item": "inflasi",
+      "value": -4
+    },
+    {
+      "item": "ingus",
+      "value": -3
+    },
+    {
+      "item": "inkonsisten",
+      "value": -4
+    },
+    {
+      "item": "insentif",
+      "value": 4
+    },
+    {
+      "item": "inspirasiku",
+      "value": 4
+    },
+    {
+      "item": "inspirator",
+      "value": 3
+    },
+    {
+      "item": "intelek",
+      "value": 4
+    },
+    {
+      "item": "intoleran",
+      "value": -4
+    },
+    {
+      "item": "intrusi",
+      "value": -4
+    },
+    {
+      "item": "irasional",
+      "value": -4
+    },
+    {
+      "item": "iri",
+      "value": -4
+    },
+    {
+      "item": "ironi",
+      "value": -2
+    },
+    {
+      "item": "ironis",
+      "value": -2
+    },
+    {
+      "item": "jahat",
+      "value": -4
+    },
+    {
+      "item": "jalang",
+      "value": -5
+    },
+    {
+      "item": "jaminan",
+      "value": 3
+    },
+    {
+      "item": "jarang",
+      "value": -1
+    },
+    {
+      "item": "jatuh",
+      "value": -3
+    },
+    {
+      "item": "jauh",
+      "value": -2
+    },
+    {
+      "item": "jeblok",
+      "value": -4
+    },
+    {
+      "item": "jeda",
+      "value": -1
+    },
+    {
+      "item": "jelas",
+      "value": 4
+    },
+    {
+      "item": "jelek",
+      "value": -4
+    },
+    {
+      "item": "jengkel",
+      "value": -4
+    },
+    {
+      "item": "jenis",
+      "value": 1
+    },
+    {
+      "item": "jera",
+      "value": -2
+    },
+    {
+      "item": "jeritan",
+      "value": -2
+    },
+    {
+      "item": "jijik",
+      "value": -4
+    },
+    {
+      "item": "jinak",
+      "value": 2
+    },
+    {
+      "item": "jongos",
+      "value": -5
+    },
+    {
+      "item": "jujur",
+      "value": 4
+    },
+    {
+      "item": "julukan",
+      "value": -2
+    },
+    {
+      "item": "jurang",
+      "value": -3
+    },
+    {
+      "item": "kabur",
+      "value": -4
+    },
+    {
+      "item": "kacau",
+      "value": -4
+    },
+    {
+      "item": "kacung",
+      "value": -4
+    },
+    {
+      "item": "kagum",
+      "value": 4
+    },
+    {
+      "item": "kagumi",
+      "value": 4
+    },
+    {
+      "item": "kaku",
+      "value": -2
+    },
+    {
+      "item": "kalah",
+      "value": -4
+    },
+    {
+      "item": "kalap",
+      "value": -4
+    },
+    {
+      "item": "kambuh",
+      "value": -3
+    },
+    {
+      "item": "kampungan",
+      "value": -5
+    },
+    {
+      "item": "kangen",
+      "value": 4
+    },
+    {
+      "item": "kanibal",
+      "value": -4
+    },
+    {
+      "item": "kanker",
+      "value": -4
+    },
+    {
+      "item": "kasar",
+      "value": -3
+    },
+    {
+      "item": "kasihan",
+      "value": -1
+    },
+    {
+      "item": "kawin",
+      "value": -3
+    },
+    {
+      "item": "kaya",
+      "value": 3
+    },
+    {
+      "item": "keanehan",
+      "value": -2
+    },
+    {
+      "item": "keangkuhan",
+      "value": -4
+    },
+    {
+      "item": "kebahagiaan",
+      "value": 3
+    },
+    {
+      "item": "kebaikan",
+      "value": 4
+    },
+    {
+      "item": "kebajikan",
+      "value": 4
+    },
+    {
+      "item": "kebal",
+      "value": 3
+    },
+    {
+      "item": "kebangetan",
+      "value": -3
+    },
+    {
+      "item": "kebanggaan",
+      "value": 4
+    },
+    {
+      "item": "kebanting",
+      "value": -3
+    },
+    {
+      "item": "kebenaran",
+      "value": 4
+    },
+    {
+      "item": "kebencian",
+      "value": -4
+    },
+    {
+      "item": "keberanian",
+      "value": 4
+    },
+    {
+      "item": "keberatan",
+      "value": -3
+    },
+    {
+      "item": "keberhasilan",
+      "value": 4
+    },
+    {
+      "item": "kebersamaan",
+      "value": 4
+    },
+    {
+      "item": "kebingungan",
+      "value": -4
+    },
+    {
+      "item": "kebisingan",
+      "value": -3
+    },
+    {
+      "item": "kebo",
+      "value": -4
+    },
+    {
+      "item": "kebocoran",
+      "value": -3
+    },
+    {
+      "item": "kebodohan",
+      "value": -3
+    },
+    {
+      "item": "kebuntuan",
+      "value": -3
+    },
+    {
+      "item": "keburukan",
+      "value": -4
+    },
+    {
+      "item": "kecaman",
+      "value": -4
+    },
+    {
+      "item": "kecelakaan",
+      "value": -4
+    },
+    {
+      "item": "kecewa",
+      "value": -3
+    },
+    {
+      "item": "kecil",
+      "value": -1
+    },
+    {
+      "item": "kecurigaan",
+      "value": -3
+    },
+    {
+      "item": "kedengkian",
+      "value": -4
+    },
+    {
+      "item": "kedok",
+      "value": -4
+    },
+    {
+      "item": "kedutan",
+      "value": -1
+    },
+    {
+      "item": "keengganan",
+      "value": -3
+    },
+    {
+      "item": "kegagalan",
+      "value": -4
+    },
+    {
+      "item": "kegelapan",
+      "value": -2
+    },
+    {
+      "item": "kegelisahan",
+      "value": -4
+    },
+    {
+      "item": "kegembiraan",
+      "value": 4
+    },
+    {
+      "item": "kegemukan",
+      "value": -4
+    },
+    {
+      "item": "kegilaan",
+      "value": -4
+    },
+    {
+      "item": "kegoyangan",
+      "value": -3
+    },
+    {
+      "item": "kehancuran",
+      "value": -4
+    },
+    {
+      "item": "kehilangan",
+      "value": -3
+    },
+    {
+      "item": "kehinaan",
+      "value": -4
+    },
+    {
+      "item": "keindahan",
+      "value": 4
+    },
+    {
+      "item": "kejahatan",
+      "value": -4
+    },
+    {
+      "item": "kejam",
+      "value": -4
+    },
+    {
+      "item": "kejang",
+      "value": -3
+    },
+    {
+      "item": "kejatuhan",
+      "value": -2
+    },
+    {
+      "item": "keji",
+      "value": -5
+    },
+    {
+      "item": "kejujuran",
+      "value": 4
+    },
+    {
+      "item": "kejutan",
+      "value": 3
+    },
+    {
+      "item": "kek",
+      "value": -2
+    },
+    {
+      "item": "kekacauan",
+      "value": -4
+    },
+    {
+      "item": "kekakuan",
+      "value": -2
+    },
+    {
+      "item": "kekanak-kanakan",
+      "value": -3
+    },
+    {
+      "item": "kekasih",
+      "value": 5
+    },
+    {
+      "item": "kekayaan",
+      "value": 3
+    },
+    {
+      "item": "kekecewaan",
+      "value": -4
+    },
+    {
+      "item": "kekejaman",
+      "value": -4
+    },
+    {
+      "item": "kekeliruan",
+      "value": -3
+    },
+    {
+      "item": "kekerasan",
+      "value": -3
+    },
+    {
+      "item": "kekeringan",
+      "value": -4
+    },
+    {
+      "item": "kekhawatiran",
+      "value": -3
+    },
+    {
+      "item": "kekosongan",
+      "value": -2
+    },
+    {
+      "item": "kekuatan",
+      "value": 3
+    },
+    {
+      "item": "kekurangan",
+      "value": -3
+    },
+    {
+      "item": "kelalaian",
+      "value": -4
+    },
+    {
+      "item": "kelambanan",
+      "value": -4
+    },
+    {
+      "item": "kelangkaan",
+      "value": -2
+    },
+    {
+      "item": "kelaparan",
+      "value": -4
+    },
+    {
+      "item": "kelebihan",
+      "value": 3
+    },
+    {
+      "item": "keledai",
+      "value": -2
+    },
+    {
+      "item": "kelelahan",
+      "value": -2
+    },
+    {
+      "item": "kelemahan",
+      "value": -3
+    },
+    {
+      "item": "keletihan",
+      "value": -1
+    },
+    {
+      "item": "keliru",
+      "value": -3
+    },
+    {
+      "item": "keluar",
+      "value": -3
+    },
+    {
+      "item": "kelumpuhan",
+      "value": -4
+    },
+    {
+      "item": "kemacetan",
+      "value": -4
+    },
+    {
+      "item": "kemahalan",
+      "value": -4
+    },
+    {
+      "item": "kemakmuran",
+      "value": 5
+    },
+    {
+      "item": "kemalangan",
+      "value": -4
+    },
+    {
+      "item": "kemalasan",
+      "value": -4
+    },
+    {
+      "item": "kemarahan",
+      "value": -4
+    },
+    {
+      "item": "kematian",
+      "value": -3
+    },
+    {
+      "item": "kembali",
+      "value": -1
+    },
+    {
+      "item": "kemenangan",
+      "value": 4
+    },
+    {
+      "item": "kemerosotan",
+      "value": -4
+    },
+    {
+      "item": "kemiskinan",
+      "value": -3
+    },
+    {
+      "item": "kemudahan",
+      "value": 3
+    },
+    {
+      "item": "kemuliaan",
+      "value": 4
+    },
+    {
+      "item": "kemunafikan",
+      "value": -5
+    },
+    {
+      "item": "kemunduran",
+      "value": -4
+    },
+    {
+      "item": "kemurkaan",
+      "value": -4
+    },
+    {
+      "item": "kenakalan",
+      "value": -4
+    },
+    {
+      "item": "kencing",
+      "value": -3
+    },
+    {
+      "item": "kendala",
+      "value": -4
+    },
+    {
+      "item": "kenyamanan",
+      "value": 4
+    },
+    {
+      "item": "kepalsuan",
+      "value": -4
+    },
+    {
+      "item": "keparahan",
+      "value": -4
+    },
+    {
+      "item": "keparat",
+      "value": -5
+    },
+    {
+      "item": "kepercayaan",
+      "value": 4
+    },
+    {
+      "item": "kepo",
+      "value": -3
+    },
+    {
+      "item": "kepuasan",
+      "value": 4
+    },
+    {
+      "item": "kepura-puraan",
+      "value": -4
+    },
+    {
+      "item": "kerahasiaan",
+      "value": -1
+    },
+    {
+      "item": "keramahan",
+      "value": 4
+    },
+    {
+      "item": "keras",
+      "value": -3
+    },
+    {
+      "item": "kere",
+      "value": -5
+    },
+    {
+      "item": "keren",
+      "value": 4
+    },
+    {
+      "item": "keren-keren",
+      "value": 4
+    },
+    {
+      "item": "kerennya",
+      "value": 4
+    },
+    {
+      "item": "kerepotan",
+      "value": -3
+    },
+    {
+      "item": "keributan",
+      "value": -3
+    },
+    {
+      "item": "kerikil",
+      "value": -1
+    },
+    {
+      "item": "kerinduan",
+      "value": 3
+    },
+    {
+      "item": "keriuhan",
+      "value": -2
+    },
+    {
+      "item": "kerugian",
+      "value": -4
+    },
+    {
+      "item": "keruh",
+      "value": -4
+    },
+    {
+      "item": "kerumitan",
+      "value": -3
+    },
+    {
+      "item": "kerusakan",
+      "value": -4
+    },
+    {
+      "item": "kerusuhan",
+      "value": -4
+    },
+    {
+      "item": "kerut",
+      "value": -2
+    },
+    {
+      "item": "kesakitan",
+      "value": -2
+    },
+    {
+      "item": "kesalahan",
+      "value": -3
+    },
+    {
+      "item": "kesan",
+      "value": 3
+    },
+    {
+      "item": "kesanggupan",
+      "value": 3
+    },
+    {
+      "item": "kesannya",
+      "value": -3
+    },
+    {
+      "item": "kesedihan",
+      "value": -2
+    },
+    {
+      "item": "kesejukan",
+      "value": 3
+    },
+    {
+      "item": "keseleo",
+      "value": -2
+    },
+    {
+      "item": "kesembronoan",
+      "value": -3
+    },
+    {
+      "item": "keserakahan",
+      "value": -5
+    },
+    {
+      "item": "keseriusan",
+      "value": 4
+    },
+    {
+      "item": "keseruan",
+      "value": 3
+    },
+    {
+      "item": "kesetiaan",
+      "value": 4
+    },
+    {
+      "item": "kesia-siaan",
+      "value": -4
+    },
+    {
+      "item": "kesiapan",
+      "value": 3
+    },
+    {
+      "item": "kesombongan",
+      "value": -5
+    },
+    {
+      "item": "kesukaan",
+      "value": 3
+    },
+    {
+      "item": "kesukaran",
+      "value": -3
+    },
+    {
+      "item": "kesuksesan",
+      "value": 4
+    },
+    {
+      "item": "kesulitan",
+      "value": -3
+    },
+    {
+      "item": "kesuraman",
+      "value": -3
+    },
+    {
+      "item": "kesusahan",
+      "value": -4
+    },
+    {
+      "item": "ketakutan",
+      "value": -4
+    },
+    {
+      "item": "ketangguhan",
+      "value": 4
+    },
+    {
+      "item": "ketat",
+      "value": -2
+    },
+    {
+      "item": "ketegangan",
+      "value": -3
+    },
+    {
+      "item": "ketenaran",
+      "value": 2
+    },
+    {
+      "item": "keterbatasan",
+      "value": -3
+    },
+    {
+      "item": "keterbelakangan",
+      "value": -4
+    },
+    {
+      "item": "keterbukaan",
+      "value": 4
+    },
+    {
+      "item": "keterlaluan",
+      "value": -3
+    },
+    {
+      "item": "keterlibatan",
+      "value": -2
+    },
+    {
+      "item": "ketidakbenaran",
+      "value": -4
+    },
+    {
+      "item": "ketidakjujuran",
+      "value": -4
+    },
+    {
+      "item": "ketidakjujuranmu",
+      "value": -4
+    },
+    {
+      "item": "ketidakmampuan",
+      "value": -3
+    },
+    {
+      "item": "ketidaknyamanan",
+      "value": -3
+    },
+    {
+      "item": "ketidakpedulian",
+      "value": -4
+    },
+    {
+      "item": "ketidakpercayaan",
+      "value": -4
+    },
+    {
+      "item": "ketidakpuasan",
+      "value": -3
+    },
+    {
+      "item": "ketidaksamaan",
+      "value": -2
+    },
+    {
+      "item": "ketidaksenangan",
+      "value": -3
+    },
+    {
+      "item": "ketidakstabilan",
+      "value": -4
+    },
+    {
+      "item": "ketidaktaatan",
+      "value": -4
+    },
+    {
+      "item": "ketidaktelitian",
+      "value": -4
+    },
+    {
+      "item": "ketidaktepatan",
+      "value": -4
+    },
+    {
+      "item": "ketidaktertarikan",
+      "value": -3
+    },
+    {
+      "item": "keunggulan",
+      "value": 4
+    },
+    {
+      "item": "kewajiban",
+      "value": 2
+    },
+    {
+      "item": "kezaliman",
+      "value": -4
+    },
+    {
+      "item": "khas",
+      "value": 4
+    },
+    {
+      "item": "khusus",
+      "value": -1
+    },
+    {
+      "item": "khusyuk",
+      "value": 4
+    },
+    {
+      "item": "kikir",
+      "value": -4
+    },
+    {
+      "item": "kikuk",
+      "value": -2
+    },
+    {
+      "item": "klik",
+      "value": 1
+    },
+    {
+      "item": "kloningan",
+      "value": -2
+    },
+    {
+      "item": "knalpot",
+      "value": -1
+    },
+    {
+      "item": "koar",
+      "value": -4
+    },
+    {
+      "item": "koar-koar",
+      "value": -4
+    },
+    {
+      "item": "kocok",
+      "value": -1
+    },
+    {
+      "item": "kok",
+      "value": -2
+    },
+    {
+      "item": "kokoh",
+      "value": 4
+    },
+    {
+      "item": "kolusi",
+      "value": -4
+    },
+    {
+      "item": "kombatan",
+      "value": -3
+    },
+    {
+      "item": "komedi",
+      "value": 4
+    },
+    {
+      "item": "komit",
+      "value": 4
+    },
+    {
+      "item": "kompak",
+      "value": 3
+    },
+    {
+      "item": "kompatible",
+      "value": 4
+    },
+    {
+      "item": "komplikasi",
+      "value": -4
+    },
+    {
+      "item": "konflik",
+      "value": -4
+    },
+    {
+      "item": "konsisten",
+      "value": 4
+    },
+    {
+      "item": "konspirasi",
+      "value": -4
+    },
+    {
+      "item": "konspirator",
+      "value": -4
+    },
+    {
+      "item": "konsumtif",
+      "value": -4
+    },
+    {
+      "item": "kontaminan",
+      "value": -3
+    },
+    {
+      "item": "kontroversi",
+      "value": -4
+    },
+    {
+      "item": "konyol",
+      "value": -4
+    },
+    {
+      "item": "korban",
+      "value": -3
+    },
+    {
+      "item": "korosi",
+      "value": -2
+    },
+    {
+      "item": "korosif",
+      "value": -2
+    },
+    {
+      "item": "korup",
+      "value": -4
+    },
+    {
+      "item": "korupsi",
+      "value": -4
+    },
+    {
+      "item": "kotor",
+      "value": -3
+    },
+    {
+      "item": "kotoran",
+      "value": -4
+    },
+    {
+      "item": "kram",
+      "value": -2
+    },
+    {
+      "item": "kreatif",
+      "value": 4
+    },
+    {
+      "item": "kresek",
+      "value": -1
+    },
+    {
+      "item": "krisis",
+      "value": -3
+    },
+    {
+      "item": "kritik",
+      "value": -1
+    },
+    {
+      "item": "kritikan",
+      "value": -2
+    },
+    {
+      "item": "kritikus",
+      "value": -1
+    },
+    {
+      "item": "kritis",
+      "value": 4
+    },
+    {
+      "item": "kronis",
+      "value": -4
+    },
+    {
+      "item": "kuat",
+      "value": 4
+    },
+    {
+      "item": "kuburan",
+      "value": -2
+    },
+    {
+      "item": "kukira",
+      "value": -3
+    },
+    {
+      "item": "kuman",
+      "value": -3
+    },
+    {
+      "item": "kuno",
+      "value": -1
+    },
+    {
+      "item": "kurang",
+      "value": -2
+    },
+    {
+      "item": "kurangi",
+      "value": -1
+    },
+    {
+      "item": "kurungan",
+      "value": -3
+    },
+    {
+      "item": "kurus",
+      "value": -3
+    },
+    {
+      "item": "kusam",
+      "value": -3
+    },
+    {
+      "item": "kutukan",
+      "value": -4
+    },
+    {
+      "item": "kuyu",
+      "value": -3
+    },
+    {
+      "item": "kw",
+      "value": -4
+    },
+    {
+      "item": "laba",
+      "value": 3
+    },
+    {
+      "item": "labil",
+      "value": -4
+    },
+    {
+      "item": "laku",
+      "value": 3
+    },
+    {
+      "item": "lalai",
+      "value": -3
+    },
+    {
+      "item": "lama",
+      "value": -2
+    },
+    {
+      "item": "lamban",
+      "value": -2
+    },
+    {
+      "item": "lambat",
+      "value": -3
+    },
+    {
+      "item": "lampiran",
+      "value": 1
+    },
+    {
+      "item": "langka",
+      "value": 4
+    },
+    {
+      "item": "laporkan",
+      "value": -2
+    },
+    {
+      "item": "lawan",
+      "value": -2
+    },
+    {
+      "item": "layak",
+      "value": 4
+    },
+    {
+      "item": "layu",
+      "value": -3
+    },
+    {
+      "item": "ledakan",
+      "value": -3
+    },
+    {
+      "item": "lega",
+      "value": 4
+    },
+    {
+      "item": "lelah",
+      "value": -2
+    },
+    {
+      "item": "laknat",
+      "value": -3
+    },
+    {
+      "item": "lelucon",
+      "value": -2
+    },
+    {
+      "item": "lemah",
+      "value": -3
+    },
+    {
+      "item": "lemak",
+      "value": -3
+    },
+    {
+      "item": "lemas",
+      "value": -3
+    },
+    {
+      "item": "lembut",
+      "value": 4
+    },
+    {
+      "item": "lendir",
+      "value": -3
+    },
+    {
+      "item": "lenyap",
+      "value": -3
+    },
+    {
+      "item": "letih",
+      "value": -2
+    },
+    {
+      "item": "lezat",
+      "value": 4
+    },
+    {
+      "item": "liar",
+      "value": -3
+    },
+    {
+      "item": "licik",
+      "value": -4
+    },
+    {
+      "item": "likuidasi",
+      "value": -1
+    },
+    {
+      "item": "limbah",
+      "value": -4
+    },
+    {
+      "item": "linglung",
+      "value": -4
+    },
+    {
+      "item": "lintas",
+      "value": -1
+    },
+    {
+      "item": "lipsync",
+      "value": -4
+    },
+    {
+      "item": "logis",
+      "value": 4
+    },
+    {
+      "item": "lokalan",
+      "value": -2
+    },
+    {
+      "item": "lucu",
+      "value": 4
+    },
+    {
+      "item": "luka",
+      "value": -3
+    },
+    {
+      "item": "lumayan",
+      "value": 2
+    },
+    {
+      "item": "lumpuh",
+      "value": -3
+    },
+    {
+      "item": "lumrah",
+      "value": -2
+    },
+    {
+      "item": "lusuh",
+      "value": -3
+    },
+    {
+      "item": "mabuk",
+      "value": -5
+    },
+    {
+      "item": "mahal",
+      "value": -3
+    },
+    {
+      "item": "maju",
+      "value": 4
+    },
+    {
+      "item": "maki-maki",
+      "value": -4
+    },
+    {
+      "item": "makmur",
+      "value": 4
+    },
+    {
+      "item": "maksa",
+      "value": -4
+    },
+    {
+      "item": "malaikat",
+      "value": 4
+    },
+    {
+      "item": "malang",
+      "value": -3
+    },
+    {
+      "item": "malapetaka",
+      "value": -4
+    },
+    {
+      "item": "malas",
+      "value": -4
+    },
+    {
+      "item": "malu",
+      "value": -3
+    },
+    {
+      "item": "malu-maluin",
+      "value": -4
+    },
+    {
+      "item": "mampu",
+      "value": 4
+    },
+    {
+      "item": "mana",
+      "value": -4
+    },
+    {
+      "item": "manfaat",
+      "value": 4
+    },
+    {
+      "item": "mangkal",
+      "value": -3
+    },
+    {
+      "item": "maniak",
+      "value": -4
+    },
+    {
+      "item": "manipulasi",
+      "value": -3
+    },
+    {
+      "item": "manis",
+      "value": 4
+    },
+    {
+      "item": "manisnya",
+      "value": 4
+    },
+    {
+      "item": "manja",
+      "value": -2
+    },
+    {
+      "item": "mantab",
+      "value": 4
+    },
+    {
+      "item": "mantap",
+      "value": 4
+    },
+    {
+      "item": "manusiawi",
+      "value": 3
+    },
+    {
+      "item": "marah",
+      "value": -4
+    },
+    {
+      "item": "marjinal",
+      "value": -3
+    },
+    {
+      "item": "martir",
+      "value": -3
+    },
+    {
+      "item": "masalah",
+      "value": -4
+    },
+    {
+      "item": "masochis",
+      "value": -3
+    },
+    {
+      "item": "mati",
+      "value": -3
+    },
+    {
+      "item": "megah",
+      "value": 1
+    },
+    {
+      "item": "melalaikan",
+      "value": -3
+    },
+    {
+      "item": "melanda",
+      "value": -3
+    },
+    {
+      "item": "melanggar",
+      "value": -4
+    },
+    {
+      "item": "melankolis",
+      "value": -2
+    },
+    {
+      "item": "melarang",
+      "value": -3
+    },
+    {
+      "item": "melawan",
+      "value": 1
+    },
+    {
+      "item": "melecehkan",
+      "value": -4
+    },
+    {
+      "item": "meledak",
+      "value": -4
+    },
+    {
+      "item": "melelahkan",
+      "value": -3
+    },
+    {
+      "item": "melemahkan",
+      "value": -3
+    },
+    {
+      "item": "melempem",
+      "value": -3
+    },
+    {
+      "item": "melengking",
+      "value": -1
+    },
+    {
+      "item": "melengserkan",
+      "value": -4
+    },
+    {
+      "item": "melenyapkan",
+      "value": -4
+    },
+    {
+      "item": "melepaskan",
+      "value": -1
+    },
+    {
+      "item": "melepuh",
+      "value": -2
+    },
+    {
+      "item": "meleset",
+      "value": -3
+    },
+    {
+      "item": "melet",
+      "value": -4
+    },
+    {
+      "item": "melibatkan",
+      "value": -1
+    },
+    {
+      "item": "melikuidasi",
+      "value": -2
+    },
+    {
+      "item": "melilit",
+      "value": -3
+    },
+    {
+      "item": "melimpah",
+      "value": 3
+    },
+    {
+      "item": "melimpahi",
+      "value": 2
+    },
+    {
+      "item": "melodramatis",
+      "value": -3
+    },
+    {
+      "item": "melucu",
+      "value": 2
+    },
+    {
+      "item": "melucuti",
+      "value": -2
+    },
+    {
+      "item": "melukai",
+      "value": -4
+    },
+    {
+      "item": "melulu",
+      "value": -3
+    },
+    {
+      "item": "melumpuhkan",
+      "value": -4
+    },
+    {
+      "item": "melumuri",
+      "value": -1
+    },
+    {
+      "item": "meluncur",
+      "value": 1
+    },
+    {
+      "item": "memaafkan",
+      "value": 4
+    },
+    {
+      "item": "memabukkan",
+      "value": -4
+    },
+    {
+      "item": "memadai",
+      "value": 3
+    },
+    {
+      "item": "memadamkan",
+      "value": 3
+    },
+    {
+      "item": "memainkan",
+      "value": 3
+    },
+    {
+      "item": "memaksa",
+      "value": -4
+    },
+    {
+      "item": "memaksakan",
+      "value": -4
+    },
+    {
+      "item": "memalukan",
+      "value": -4
+    },
+    {
+      "item": "memanjakan",
+      "value": -3
+    },
+    {
+      "item": "memar",
+      "value": -3
+    },
+    {
+      "item": "memarahi",
+      "value": -4
+    },
+    {
+      "item": "memasang",
+      "value": 1
+    },
+    {
+      "item": "mematikan",
+      "value": -2
+    },
+    {
+      "item": "membahayakan",
+      "value": -4
+    },
+    {
+      "item": "membajak",
+      "value": -3
+    },
+    {
+      "item": "membakar",
+      "value": -4
+    },
+    {
+      "item": "membalas",
+      "value": -2
+    },
+    {
+      "item": "membanding-bandingkan",
+      "value": -3
+    },
+    {
+      "item": "membandingkan",
+      "value": -3
+    },
+    {
+      "item": "membandingkannya",
+      "value": -3
+    },
+    {
+      "item": "membanggakan",
+      "value": 4
+    },
+    {
+      "item": "membanjiri",
+      "value": -3
+    },
+    {
+      "item": "membantah",
+      "value": -3
+    },
+    {
+      "item": "membanting",
+      "value": -3
+    },
+    {
+      "item": "membantu",
+      "value": 4
+    },
+    {
+      "item": "membasmi",
+      "value": -3
+    },
+    {
+      "item": "membatalkan",
+      "value": -3
+    },
+    {
+      "item": "membatasi",
+      "value": -3
+    },
+    {
+      "item": "membenci",
+      "value": -4
+    },
+    {
+      "item": "membengkokkan",
+      "value": -3
+    },
+    {
+      "item": "membentak",
+      "value": -4
+    },
+    {
+      "item": "memberhentikan",
+      "value": -2
+    },
+    {
+      "item": "memberikan",
+      "value": 3
+    },
+    {
+      "item": "memberkati",
+      "value": 3
+    },
+    {
+      "item": "membingungkan",
+      "value": -3
+    },
+    {
+      "item": "membisingkan",
+      "value": -3
+    },
+    {
+      "item": "membongkar",
+      "value": -2
+    },
+    {
+      "item": "membosankan",
+      "value": -3
+    },
+    {
+      "item": "membual",
+      "value": -4
+    },
+    {
+      "item": "membuang",
+      "value": -3
+    },
+    {
+      "item": "membuktikan",
+      "value": 2
+    },
+    {
+      "item": "membully",
+      "value": -4
+    },
+    {
+      "item": "membunuh",
+      "value": -4
+    },
+    {
+      "item": "membusuk",
+      "value": -4
+    },
+    {
+      "item": "membutuhkan",
+      "value": 2
+    },
+    {
+      "item": "memecah",
+      "value": -4
+    },
+    {
+      "item": "memecahkan",
+      "value": -2
+    },
+    {
+      "item": "memek",
+      "value": -4
+    },
+    {
+      "item": "memekik",
+      "value": -2
+    },
+    {
+      "item": "memeluk",
+      "value": 4
+    },
+    {
+      "item": "memenangkan",
+      "value": 4
+    },
+    {
+      "item": "memenjarakan",
+      "value": -4
+    },
+    {
+      "item": "memfitnah",
+      "value": -4
+    },
+    {
+      "item": "memikat",
+      "value": 4
+    },
+    {
+      "item": "meminta-minta",
+      "value": -4
+    },
+    {
+      "item": "memisahkan",
+      "value": -3
+    },
+    {
+      "item": "memohon",
+      "value": -2
+    },
+    {
+      "item": "memperbudak",
+      "value": -4
+    },
+    {
+      "item": "memperingati",
+      "value": 4
+    },
+    {
+      "item": "memperingatkan",
+      "value": 3
+    },
+    {
+      "item": "memperkosa",
+      "value": -5
+    },
+    {
+      "item": "memperkuat",
+      "value": 4
+    },
+    {
+      "item": "memperlambat",
+      "value": -3
+    },
+    {
+      "item": "mempermalukan",
+      "value": -4
+    },
+    {
+      "item": "mempermasalahkan",
+      "value": -3
+    },
+    {
+      "item": "mempersulit",
+      "value": -4
+    },
+    {
+      "item": "mempopulerkan",
+      "value": 3
+    },
+    {
+      "item": "memprovokasi",
+      "value": -4
+    },
+    {
+      "item": "memuaskan",
+      "value": 3
+    },
+    {
+      "item": "memudar",
+      "value": -3
+    },
+    {
+      "item": "memuja",
+      "value": -2
+    },
+    {
+      "item": "memukau",
+      "value": 4
+    },
+    {
+      "item": "memukul",
+      "value": -4
+    },
+    {
+      "item": "memuliakan",
+      "value": 3
+    },
+    {
+      "item": "memuntahkan",
+      "value": -3
+    },
+    {
+      "item": "memusnahkan",
+      "value": -4
+    },
+    {
+      "item": "memutuskan",
+      "value": -2
+    },
+    {
+      "item": "menafikan",
+      "value": -3
+    },
+    {
+      "item": "menahan",
+      "value": 2
+    },
+    {
+      "item": "menajiskan",
+      "value": -3
+    },
+    {
+      "item": "menakjubkan",
+      "value": 4
+    },
+    {
+      "item": "menaklukkan",
+      "value": -2
+    },
+    {
+      "item": "menakut-nakuti",
+      "value": -4
+    },
+    {
+      "item": "menakuti",
+      "value": -3
+    },
+    {
+      "item": "menakutkan",
+      "value": -4
+    },
+    {
+      "item": "menampar",
+      "value": -4
+    },
+    {
+      "item": "menang",
+      "value": 4
+    },
+    {
+      "item": "menangguhkan",
+      "value": -2
+    },
+    {
+      "item": "menangis",
+      "value": -3
+    },
+    {
+      "item": "menangkal",
+      "value": 2
+    },
+    {
+      "item": "menangkap",
+      "value": 2
+    },
+    {
+      "item": "menantang",
+      "value": -3
+    },
+    {
+      "item": "menarik",
+      "value": 1
+    },
+    {
+      "item": "mencabut",
+      "value": -2
+    },
+    {
+      "item": "mencaci",
+      "value": -4
+    },
+    {
+      "item": "mencampuri",
+      "value": -3
+    },
+    {
+      "item": "mencapai",
+      "value": 3
+    },
+    {
+      "item": "mencatut",
+      "value": -3
+    },
+    {
+      "item": "mencekek",
+      "value": -4
+    },
+    {
+      "item": "mencekik",
+      "value": -4
+    },
+    {
+      "item": "mencela",
+      "value": -4
+    },
+    {
+      "item": "mencemari",
+      "value": -4
+    },
+    {
+      "item": "mencemarkan",
+      "value": -4
+    },
+    {
+      "item": "mencemooh",
+      "value": -4
+    },
+    {
+      "item": "mencibir",
+      "value": -5
+    },
+    {
+      "item": "mencintai",
+      "value": 5
+    },
+    {
+      "item": "mencium",
+      "value": 3
+    },
+    {
+      "item": "mencolok",
+      "value": -2
+    },
+    {
+      "item": "mencubit",
+      "value": -3
+    },
+    {
+      "item": "menculik",
+      "value": -4
+    },
+    {
+      "item": "mencuri",
+      "value": -4
+    },
+    {
+      "item": "mendambakan",
+      "value": 3
+    },
+    {
+      "item": "mendengkur",
+      "value": -2
+    },
+    {
+      "item": "mendera",
+      "value": -2
+    },
+    {
+      "item": "menderita",
+      "value": -4
+    },
+    {
+      "item": "mendikte",
+      "value": -3
+    },
+    {
+      "item": "mendiskreditkan",
+      "value": -3
+    },
+    {
+      "item": "mendistorsi",
+      "value": -3
+    },
+    {
+      "item": "mendominasi",
+      "value": -2
+    },
+    {
+      "item": "mendorong",
+      "value": 3
+    },
+    {
+      "item": "menduga",
+      "value": -2
+    },
+    {
+      "item": "mendukung",
+      "value": 4
+    },
+    {
+      "item": "mendunia",
+      "value": 5
+    },
+    {
+      "item": "mendustakan",
+      "value": -4
+    },
+    {
+      "item": "menegakkan",
+      "value": 4
+    },
+    {
+      "item": "menegang",
+      "value": -2
+    },
+    {
+      "item": "meneguk",
+      "value": -1
+    },
+    {
+      "item": "menegur",
+      "value": 2
+    },
+    {
+      "item": "menekan",
+      "value": -3
+    },
+    {
+      "item": "menelan",
+      "value": -1
+    },
+    {
+      "item": "meneliti",
+      "value": 3
+    },
+    {
+      "item": "menembak",
+      "value": -1
+    },
+    {
+      "item": "menentang",
+      "value": -3
+    },
+    {
+      "item": "menentramkan",
+      "value": 4
+    },
+    {
+      "item": "menertawakan",
+      "value": -2
+    },
+    {
+      "item": "menetap",
+      "value": 1
+    },
+    {
+      "item": "menetralisir",
+      "value": 4
+    },
+    {
+      "item": "mengabaikan",
+      "value": -3
+    },
+    {
+      "item": "mengacaukan",
+      "value": -4
+    },
+    {
+      "item": "mengagetkan",
+      "value": -3
+    },
+    {
+      "item": "mengagumkan",
+      "value": 4
+    },
+    {
+      "item": "mengajak",
+      "value": 4
+    },
+    {
+      "item": "mengalah",
+      "value": 4
+    },
+    {
+      "item": "mengalahkan",
+      "value": 1
+    },
+    {
+      "item": "mengalihkan",
+      "value": -3
+    },
+    {
+      "item": "mengalir",
+      "value": 4
+    },
+    {
+      "item": "mengamputasi",
+      "value": -3
+    },
+    {
+      "item": "mengamuk",
+      "value": -4
+    },
+    {
+      "item": "mengancam",
+      "value": -4
+    },
+    {
+      "item": "menganggur",
+      "value": -4
+    },
+    {
+      "item": "menganiaya",
+      "value": -4
+    },
+    {
+      "item": "mengasihimu",
+      "value": 4
+    },
+    {
+      "item": "mengatai",
+      "value": -4
+    },
+    {
+      "item": "mengawur",
+      "value": -4
+    },
+    {
+      "item": "mengayunkan",
+      "value": -1
+    },
+    {
+      "item": "mengecam",
+      "value": -3
+    },
+    {
+      "item": "mengecewakan",
+      "value": -4
+    },
+    {
+      "item": "mengecualikan",
+      "value": -3
+    },
+    {
+      "item": "mengejar",
+      "value": -1
+    },
+    {
+      "item": "mengejek",
+      "value": -4
+    },
+    {
+      "item": "mengejutkan",
+      "value": -1
+    },
+    {
+      "item": "mengeksekusi",
+      "value": -1
+    },
+    {
+      "item": "mengekspos",
+      "value": -1
+    },
+    {
+      "item": "mengelabui",
+      "value": -4
+    },
+    {
+      "item": "mengeluh",
+      "value": -4
+    },
+    {
+      "item": "mengemis",
+      "value": -4
+    },
+    {
+      "item": "mengenakan",
+      "value": 3
+    },
+    {
+      "item": "mengepung",
+      "value": -1
+    },
+    {
+      "item": "mengerang",
+      "value": -1
+    },
+    {
+      "item": "mengerikan",
+      "value": -4
+    },
+    {
+      "item": "mengeruk",
+      "value": -3
+    },
+    {
+      "item": "mengerut",
+      "value": -2
+    },
+    {
+      "item": "menggagalkan",
+      "value": -1
+    },
+    {
+      "item": "menggairahkan",
+      "value": 1
+    },
+    {
+      "item": "menggambarkan",
+      "value": 1
+    },
+    {
+      "item": "mengganggu",
+      "value": -3
+    },
+    {
+      "item": "menggantung",
+      "value": -3
+    },
+    {
+      "item": "menggelapkan",
+      "value": -4
+    },
+    {
+      "item": "menggelegar",
+      "value": 4
+    },
+    {
+      "item": "menggelepar",
+      "value": -3
+    },
+    {
+      "item": "menggeliat",
+      "value": -2
+    },
+    {
+      "item": "menggelikan",
+      "value": -2
+    },
+    {
+      "item": "menggemari",
+      "value": -3
+    },
+    {
+      "item": "menggemaskan",
+      "value": 3
+    },
+    {
+      "item": "menggembirakan",
+      "value": 4
+    },
+    {
+      "item": "menggemparkan",
+      "value": -2
+    },
+    {
+      "item": "menggenangi",
+      "value": -2
+    },
+    {
+      "item": "menggeram",
+      "value": -2
+    },
+    {
+      "item": "menggerutu",
+      "value": -3
+    },
+    {
+      "item": "menggigil",
+      "value": -2
+    },
+    {
+      "item": "menggila",
+      "value": -3
+    },
+    {
+      "item": "menggoda",
+      "value": -3
+    },
+    {
+      "item": "menggulingkan",
+      "value": -3
+    },
+    {
+      "item": "menggumpalkan",
+      "value": -1
+    },
+    {
+      "item": "mengguncang",
+      "value": -2
+    },
+    {
+      "item": "menggusur",
+      "value": -3
+    },
+    {
+      "item": "menghadapi",
+      "value": 1
+    },
+    {
+      "item": "menghakimi",
+      "value": -4
+    },
+    {
+      "item": "menghalangi",
+      "value": -2
+    },
+    {
+      "item": "menghalau",
+      "value": -2
+    },
+    {
+      "item": "menghambat",
+      "value": -3
+    },
+    {
+      "item": "menghambur-hamburkan",
+      "value": -4
+    },
+    {
+      "item": "menghancurkan",
+      "value": -4
+    },
+    {
+      "item": "menghantam",
+      "value": -4
+    },
+    {
+      "item": "menghantui",
+      "value": -3
+    },
+    {
+      "item": "menghapuskan",
+      "value": -4
+    },
+    {
+      "item": "menghargai",
+      "value": 5
+    },
+    {
+      "item": "mengharukan",
+      "value": 3
+    },
+    {
+      "item": "menghiasi",
+      "value": 4
+    },
+    {
+      "item": "menghibur",
+      "value": 4
+    },
+    {
+      "item": "menghidupkan",
+      "value": 4
+    },
+    {
+      "item": "menghilangkan",
+      "value": -3
+    },
+    {
+      "item": "menghina",
+      "value": -4
+    },
+    {
+      "item": "menghindari",
+      "value": -1
+    },
+    {
+      "item": "menghisap",
+      "value": -2
+    },
+    {
+      "item": "menghormati",
+      "value": 4
+    },
+    {
+      "item": "menghujat",
+      "value": -5
+    },
+    {
+      "item": "menghukum",
+      "value": -2
+    },
+    {
+      "item": "mengigil",
+      "value": -2
+    },
+    {
+      "item": "mengikis",
+      "value": -1
+    },
+    {
+      "item": "mengilhami",
+      "value": 4
+    },
+    {
+      "item": "menginfeksi",
+      "value": -3
+    },
+    {
+      "item": "mengingini",
+      "value": -1
+    },
+    {
+      "item": "mengingkari",
+      "value": -3
+    },
+    {
+      "item": "menginjak-injak",
+      "value": -4
+    },
+    {
+      "item": "menginspirasi",
+      "value": 5
+    },
+    {
+      "item": "mengintai",
+      "value": -3
+    },
+    {
+      "item": "menginvasi",
+      "value": -4
+    },
+    {
+      "item": "mengkhianati",
+      "value": -4
+    },
+    {
+      "item": "mengobarkan",
+      "value": -1
+    },
+    {
+      "item": "mengobati",
+      "value": 4
+    },
+    {
+      "item": "mengoceh",
+      "value": -3
+    },
+    {
+      "item": "mengolok-olok",
+      "value": -3
+    },
+    {
+      "item": "mengomeli",
+      "value": -3
+    },
+    {
+      "item": "mengotori",
+      "value": -4
+    },
+    {
+      "item": "mengoyakkan",
+      "value": -3
+    },
+    {
+      "item": "menguap",
+      "value": -1
+    },
+    {
+      "item": "mengubur",
+      "value": -1
+    },
+    {
+      "item": "mengucilkan",
+      "value": -4
+    },
+    {
+      "item": "mengulur-ulur",
+      "value": -3
+    },
+    {
+      "item": "mengundi",
+      "value": -2
+    },
+    {
+      "item": "menguntungkan",
+      "value": 4
+    },
+    {
+      "item": "mengurangi",
+      "value": -2
+    },
+    {
+      "item": "menguras",
+      "value": -2
+    },
+    {
+      "item": "mengurungkan",
+      "value": -1
+    },
+    {
+      "item": "mengusir",
+      "value": -4
+    },
+    {
+      "item": "mengusut",
+      "value": 3
+    },
+    {
+      "item": "mengutuk",
+      "value": -4
+    },
+    {
+      "item": "menikmati",
+      "value": 4
+    },
+    {
+      "item": "menilai",
+      "value": 1
+    },
+    {
+      "item": "menimbulkan",
+      "value": 1
+    },
+    {
+      "item": "menimbun",
+      "value": -3
+    },
+    {
+      "item": "menindas",
+      "value": -4
+    },
+    {
+      "item": "meningkatkan",
+      "value": 3
+    },
+    {
+      "item": "menipu",
+      "value": -5
+    },
+    {
+      "item": "menisik",
+      "value": -1
+    },
+    {
+      "item": "menjatuhkan",
+      "value": -3
+    },
+    {
+      "item": "menjejalkan",
+      "value": -2
+    },
+    {
+      "item": "menjemukan",
+      "value": -3
+    },
+    {
+      "item": "menjengkelkan",
+      "value": -3
+    },
+    {
+      "item": "menjerat",
+      "value": -3
+    },
+    {
+      "item": "menjerit",
+      "value": -3
+    },
+    {
+      "item": "menjijikkan",
+      "value": -4
+    },
+    {
+      "item": "menolak",
+      "value": -2
+    },
+    {
+      "item": "menonaktifkan",
+      "value": -1
+    },
+    {
+      "item": "menuding",
+      "value": -4
+    },
+    {
+      "item": "menuduh",
+      "value": -4
+    },
+    {
+      "item": "menular",
+      "value": -2
+    },
+    {
+      "item": "menumbangkan",
+      "value": -2
+    },
+    {
+      "item": "menunangkan",
+      "value": 1
+    },
+    {
+      "item": "menunggu",
+      "value": -2
+    },
+    {
+      "item": "menuntut",
+      "value": -3
+    },
+    {
+      "item": "menurun",
+      "value": -2
+    },
+    {
+      "item": "menurunkan",
+      "value": -1
+    },
+    {
+      "item": "menusuk",
+      "value": -4
+    },
+    {
+      "item": "menutupi",
+      "value": -1
+    },
+    {
+      "item": "menyakitkan",
+      "value": -3
+    },
+    {
+      "item": "menyalahgunakan",
+      "value": -4
+    },
+    {
+      "item": "menyalahkan",
+      "value": -4
+    },
+    {
+      "item": "menyalak",
+      "value": -4
+    },
+    {
+      "item": "menyamarkan",
+      "value": -3
+    },
+    {
+      "item": "menyambut",
+      "value": 3
+    },
+    {
+      "item": "menyangkal",
+      "value": -3
+    },
+    {
+      "item": "menyayangkan",
+      "value": 1
+    },
+    {
+      "item": "menyebalkan",
+      "value": -4
+    },
+    {
+      "item": "menyedihkan",
+      "value": -3
+    },
+    {
+      "item": "menyedot",
+      "value": -1
+    },
+    {
+      "item": "menyegarkan",
+      "value": 3
+    },
+    {
+      "item": "menyelinap",
+      "value": -3
+    },
+    {
+      "item": "menyelundupkan",
+      "value": -4
+    },
+    {
+      "item": "menyembunyikan",
+      "value": -2
+    },
+    {
+      "item": "menyemburkan",
+      "value": -1
+    },
+    {
+      "item": "menyenangkan",
+      "value": 4
+    },
+    {
+      "item": "menyendiri",
+      "value": -1
+    },
+    {
+      "item": "menyensor",
+      "value": 2
+    },
+    {
+      "item": "menyerah",
+      "value": -4
+    },
+    {
+      "item": "menyeramkan",
+      "value": -4
+    },
+    {
+      "item": "menyerang",
+      "value": -3
+    },
+    {
+      "item": "menyerap",
+      "value": 1
+    },
+    {
+      "item": "menyerbu",
+      "value": -3
+    },
+    {
+      "item": "menyeret",
+      "value": -4
+    },
+    {
+      "item": "menyeringai",
+      "value": -2
+    },
+    {
+      "item": "menyesal",
+      "value": -4
+    },
+    {
+      "item": "menyesatkan",
+      "value": -5
+    },
+    {
+      "item": "menyiksa",
+      "value": -4
+    },
+    {
+      "item": "menyimpang",
+      "value": -4
+    },
+    {
+      "item": "menyinggung",
+      "value": -2
+    },
+    {
+      "item": "menyingkirkan",
+      "value": -3
+    },
+    {
+      "item": "menyita",
+      "value": -3
+    },
+    {
+      "item": "menyobek",
+      "value": -2
+    },
+    {
+      "item": "menyogok",
+      "value": -4
+    },
+    {
+      "item": "menyuap",
+      "value": -4
+    },
+    {
+      "item": "menyukai",
+      "value": 4
+    },
+    {
+      "item": "menyumbat",
+      "value": -2
+    },
+    {
+      "item": "menyusahkan",
+      "value": -4
+    },
+    {
+      "item": "menyusup",
+      "value": -3
+    },
+    {
+      "item": "meragukan",
+      "value": -2
+    },
+    {
+      "item": "merajalela",
+      "value": -2
+    },
+    {
+      "item": "merampok",
+      "value": -4
+    },
+    {
+      "item": "merana",
+      "value": -4
+    },
+    {
+      "item": "merangkak",
+      "value": -2
+    },
+    {
+      "item": "merangsang",
+      "value": -1
+    },
+    {
+      "item": "merata",
+      "value": 2
+    },
+    {
+      "item": "meratap",
+      "value": -2
+    },
+    {
+      "item": "merawat",
+      "value": 4
+    },
+    {
+      "item": "merayakan",
+      "value": 4
+    },
+    {
+      "item": "merebut",
+      "value": -2
+    },
+    {
+      "item": "mereda",
+      "value": 3
+    },
+    {
+      "item": "meremehkan",
+      "value": -3
+    },
+    {
+      "item": "merendahkan",
+      "value": -4
+    },
+    {
+      "item": "merengek",
+      "value": -3
+    },
+    {
+      "item": "merenung",
+      "value": 2
+    },
+    {
+      "item": "meresahkan",
+      "value": -3
+    },
+    {
+      "item": "merevitalisasi",
+      "value": 4
+    },
+    {
+      "item": "meriah",
+      "value": 3
+    },
+    {
+      "item": "meriam",
+      "value": -1
+    },
+    {
+      "item": "merinding",
+      "value": -1
+    },
+    {
+      "item": "meringankan",
+      "value": 3
+    },
+    {
+      "item": "meringis",
+      "value": -2
+    },
+    {
+      "item": "merisaukan",
+      "value": -2
+    },
+    {
+      "item": "merobek",
+      "value": -3
+    },
+    {
+      "item": "merosot",
+      "value": -3
+    },
+    {
+      "item": "merugikan",
+      "value": -4
+    },
+    {
+      "item": "merundung",
+      "value": -3
+    },
+    {
+      "item": "merusak",
+      "value": -4
+    },
+    {
+      "item": "meskipun",
+      "value": -1
+    },
+    {
+      "item": "mesra",
+      "value": 3
+    },
+    {
+      "item": "mesum",
+      "value": -4
+    },
+    {
+      "item": "mimpi",
+      "value": 3
+    },
+    {
+      "item": "minim",
+      "value": -3
+    },
+    {
+      "item": "miring",
+      "value": -1
+    },
+    {
+      "item": "mirip",
+      "value": 1
+    },
+    {
+      "item": "miris",
+      "value": -4
+    },
+    {
+      "item": "miskin",
+      "value": -3
+    },
+    {
+      "item": "mohon",
+      "value": 1
+    },
+    {
+      "item": "monoton",
+      "value": -2
+    },
+    {
+      "item": "montok",
+      "value": -2
+    },
+    {
+      "item": "moral",
+      "value": 4
+    },
+    {
+      "item": "muah",
+      "value": 3
+    },
+    {
+      "item": "muak",
+      "value": -5
+    },
+    {
+      "item": "muda",
+      "value": 4
+    },
+    {
+      "item": "mudah",
+      "value": 3
+    },
+    {
+      "item": "mudah-mudahan",
+      "value": 1
+    },
+    {
+      "item": "mulia",
+      "value": 4
+    },
+    {
+      "item": "multitalenta",
+      "value": 5
+    },
+    {
+      "item": "munafik",
+      "value": -5
+    },
+    {
+      "item": "mundur",
+      "value": -3
+    },
+    {
+      "item": "muntah",
+      "value": -3
+    },
+    {
+      "item": "murah",
+      "value": 2
+    },
+    {
+      "item": "murahan",
+      "value": -4
+    },
+    {
+      "item": "muram",
+      "value": -2
+    },
+    {
+      "item": "murka",
+      "value": -4
+    },
+    {
+      "item": "murni",
+      "value": 4
+    },
+    {
+      "item": "murung",
+      "value": -3
+    },
+    {
+      "item": "musuh",
+      "value": -4
+    },
+    {
+      "item": "naif",
+      "value": -3
+    },
+    {
+      "item": "naik",
+      "value": 3
+    },
+    {
+      "item": "nakal",
+      "value": -3
+    },
+    {
+      "item": "nangis",
+      "value": -2
+    },
+    {
+      "item": "nasib",
+      "value": -1
+    },
+    {
+      "item": "naudzubillah",
+      "value": -5
+    },
+    {
+      "item": "negatif",
+      "value": -1
+    },
+    {
+      "item": "nekat",
+      "value": -2
+    },
+    {
+      "item": "neraka",
+      "value": -4
+    },
+    {
+      "item": "ngaku-ngaku",
+      "value": -4
+    },
+    {
+      "item": "ngeles",
+      "value": -4
+    },
+    {
+      "item": "ngeri",
+      "value": -4
+    },
+    {
+      "item": "ngobrol",
+      "value": 3
+    },
+    {
+      "item": "ngomel",
+      "value": -4
+    },
+    {
+      "item": "nikmat",
+      "value": 4
+    },
+    {
+      "item": "nilai",
+      "value": 3
+    },
+    {
+      "item": "nol",
+      "value": -4
+    },
+    {
+      "item": "nomor",
+      "value": -1
+    },
+    {
+      "item": "nonsens",
+      "value": -3
+    },
+    {
+      "item": "norak",
+      "value": -5
+    },
+    {
+      "item": "normal",
+      "value": -1
+    },
+    {
+      "item": "numpang",
+      "value": -3
+    },
+    {
+      "item": "nyai",
+      "value": -4
+    },
+    {
+      "item": "nyaman",
+      "value": 4
+    },
+    {
+      "item": "nyampah",
+      "value": -4
+    },
+    {
+      "item": "nyenyak",
+      "value": 3
+    },
+    {
+      "item": "nyepam",
+      "value": -4
+    },
+    {
+      "item": "nyeri",
+      "value": -2
+    },
+    {
+      "item": "nyerocos",
+      "value": -4
+    },
+    {
+      "item": "nyindir",
+      "value": -3
+    },
+    {
+      "item": "nyinyir",
+      "value": -4
+    },
+    {
+      "item": "nyungsep",
+      "value": -5
+    },
+    {
+      "item": "oh",
+      "value": -1
+    },
+    {
+      "item": "ok",
+      "value": 1
+    },
+    {
+      "item": "okay",
+      "value": 1
+    },
+    {
+      "item": "oke",
+      "value": 3
+    },
+    {
+      "item": "om-om",
+      "value": -4
+    },
+    {
+      "item": "omg",
+      "value": -2
+    },
+    {
+      "item": "omongan",
+      "value": -2
+    },
+    {
+      "item": "omongkosong",
+      "value": -4
+    },
+    {
+      "item": "openminded",
+      "value": 4
+    },
+    {
+      "item": "oposisi",
+      "value": -1
+    },
+    {
+      "item": "optimal",
+      "value": 4
+    },
+    {
+      "item": "optimis",
+      "value": 5
+    },
+    {
+      "item": "optimisme",
+      "value": 5
+    },
+    {
+      "item": "otentik",
+      "value": 4
+    },
+    {
+      "item": "otokrasi",
+      "value": -1
+    },
+    {
+      "item": "otokrat",
+      "value": -2
+    },
+    {
+      "item": "padat",
+      "value": 1
+    },
+    {
+      "item": "pahala",
+      "value": 4
+    },
+    {
+      "item": "pahit",
+      "value": -2
+    },
+    {
+      "item": "pajak",
+      "value": -3
+    },
+    {
+      "item": "paksa",
+      "value": -4
+    },
+    {
+      "item": "paksaan",
+      "value": -4
+    },
+    {
+      "item": "palsu",
+      "value": -4
+    },
+    {
+      "item": "pamer",
+      "value": -4
+    },
+    {
+      "item": "pangsit",
+      "value": -1
+    },
+    {
+      "item": "panik",
+      "value": -3
+    },
+    {
+      "item": "panjang",
+      "value": 1
+    },
+    {
+      "item": "pantas",
+      "value": 3
+    },
+    {
+      "item": "pantura",
+      "value": -4
+    },
+    {
+      "item": "panutan",
+      "value": 4
+    },
+    {
+      "item": "parah",
+      "value": -5
+    },
+    {
+      "item": "paranoid",
+      "value": -4
+    },
+    {
+      "item": "parasit",
+      "value": -4
+    },
+    {
+      "item": "parau",
+      "value": -3
+    },
+    {
+      "item": "partisi",
+      "value": -1
+    },
+    {
+      "item": "party",
+      "value": 1
+    },
+    {
+      "item": "parut",
+      "value": -1
+    },
+    {
+      "item": "pasangan",
+      "value": 4
+    },
+    {
+      "item": "patut",
+      "value": 4
+    },
+    {
+      "item": "pecah",
+      "value": -2
+    },
+    {
+      "item": "pecandu",
+      "value": -4
+    },
+    {
+      "item": "pecundang",
+      "value": -4
+    },
+    {
+      "item": "peduli",
+      "value": 4
+    },
+    {
+      "item": "pelacur",
+      "value": -4
+    },
+    {
+      "item": "pelaku",
+      "value": -2
+    },
+    {
+      "item": "pelakunya",
+      "value": -2
+    },
+    {
+      "item": "pelanggaran",
+      "value": -3
+    },
+    {
+      "item": "pelarian",
+      "value": -3
+    },
+    {
+      "item": "pelecehan",
+      "value": -4
+    },
+    {
+      "item": "peledak",
+      "value": -4
+    },
+    {
+      "item": "pelit",
+      "value": -4
+    },
+    {
+      "item": "pelonggaran",
+      "value": -2
+    },
+    {
+      "item": "pelosok",
+      "value": -4
+    },
+    {
+      "item": "peluk",
+      "value": 3
+    },
+    {
+      "item": "pelukan",
+      "value": 4
+    },
+    {
+      "item": "peluru",
+      "value": -3
+    },
+    {
+      "item": "pemalas",
+      "value": -4
+    },
+    {
+      "item": "pemalu",
+      "value": -2
+    },
+    {
+      "item": "pembajakan",
+      "value": -3
+    },
+    {
+      "item": "pembalasan",
+      "value": -4
+    },
+    {
+      "item": "pembangkang",
+      "value": -4
+    },
+    {
+      "item": "pembangkangan",
+      "value": -4
+    },
+    {
+      "item": "pembantaian",
+      "value": -4
+    },
+    {
+      "item": "pembatalan",
+      "value": -3
+    },
+    {
+      "item": "pemberang",
+      "value": -4
+    },
+    {
+      "item": "pemberontak",
+      "value": -4
+    },
+    {
+      "item": "pemberontakan",
+      "value": -4
+    },
+    {
+      "item": "pembesar",
+      "value": -2
+    },
+    {
+      "item": "pembohong",
+      "value": -4
+    },
+    {
+      "item": "pembuangan",
+      "value": -3
+    },
+    {
+      "item": "pembubaran",
+      "value": -3
+    },
+    {
+      "item": "pembunuh",
+      "value": -5
+    },
+    {
+      "item": "pembunuhan",
+      "value": -5
+    },
+    {
+      "item": "pemburu",
+      "value": -1
+    },
+    {
+      "item": "pembusukan",
+      "value": -4
+    },
+    {
+      "item": "pemeliharaan",
+      "value": 4
+    },
+    {
+      "item": "pemenang",
+      "value": 4
+    },
+    {
+      "item": "pemerasan",
+      "value": -4
+    },
+    {
+      "item": "pemerkosa",
+      "value": -5
+    },
+    {
+      "item": "pemisahan",
+      "value": -1
+    },
+    {
+      "item": "pemogokan",
+      "value": -3
+    },
+    {
+      "item": "pemukulan",
+      "value": -4
+    },
+    {
+      "item": "pemula",
+      "value": -1
+    },
+    {
+      "item": "pemuliaan",
+      "value": 3
+    },
+    {
+      "item": "pemusnahan",
+      "value": -3
+    },
+    {
+      "item": "penanggung",
+      "value": -1
+    },
+    {
+      "item": "penawaran",
+      "value": -1
+    },
+    {
+      "item": "pencabutan",
+      "value": -2
+    },
+    {
+      "item": "pencemooh",
+      "value": -4
+    },
+    {
+      "item": "pencinta",
+      "value": 4
+    },
+    {
+      "item": "pencuri",
+      "value": -4
+    },
+    {
+      "item": "pencurian",
+      "value": -4
+    },
+    {
+      "item": "pendek",
+      "value": -4
+    },
+    {
+      "item": "penderita",
+      "value": -3
+    },
+    {
+      "item": "penderitaan",
+      "value": -4
+    },
+    {
+      "item": "pendiri",
+      "value": 3
+    },
+    {
+      "item": "pendukung",
+      "value": 3
+    },
+    {
+      "item": "pendusta",
+      "value": -4
+    },
+    {
+      "item": "penebus",
+      "value": 3
+    },
+    {
+      "item": "penetralan",
+      "value": 3
+    },
+    {
+      "item": "pengacau",
+      "value": -4
+    },
+    {
+      "item": "pengangguran",
+      "value": -4
+    },
+    {
+      "item": "penganiayaan",
+      "value": -4
+    },
+    {
+      "item": "pengap",
+      "value": -3
+    },
+    {
+      "item": "pengasingan",
+      "value": -3
+    },
+    {
+      "item": "pengawasan",
+      "value": -2
+    },
+    {
+      "item": "pengecualian",
+      "value": -1
+    },
+    {
+      "item": "pengecut",
+      "value": -4
+    },
+    {
+      "item": "pengembara",
+      "value": 2
+    },
+    {
+      "item": "pengemis",
+      "value": -4
+    },
+    {
+      "item": "pengepungan",
+      "value": -3
+    },
+    {
+      "item": "penggantian",
+      "value": -1
+    },
+    {
+      "item": "penggelapan",
+      "value": -4
+    },
+    {
+      "item": "penggugat",
+      "value": -3
+    },
+    {
+      "item": "penghalang",
+      "value": -3
+    },
+    {
+      "item": "penghargaan",
+      "value": 4
+    },
+    {
+      "item": "penghidupan",
+      "value": 4
+    },
+    {
+      "item": "penghinaan",
+      "value": -4
+    },
+    {
+      "item": "pengisap",
+      "value": -2
+    },
+    {
+      "item": "pengkhianat",
+      "value": -4
+    },
+    {
+      "item": "pengkhianatan",
+      "value": -4
+    },
+    {
+      "item": "pengotor",
+      "value": -3
+    },
+    {
+      "item": "pengunduran",
+      "value": -3
+    },
+    {
+      "item": "pengungsi",
+      "value": -2
+    },
+    {
+      "item": "penindasan",
+      "value": -4
+    },
+    {
+      "item": "penipu",
+      "value": -5
+    },
+    {
+      "item": "penipuan",
+      "value": -4
+    },
+    {
+      "item": "penjahat",
+      "value": -4
+    },
+    {
+      "item": "penjara",
+      "value": -4
+    },
+    {
+      "item": "penolakan",
+      "value": -4
+    },
+    {
+      "item": "pensiun",
+      "value": -1
+    },
+    {
+      "item": "penting",
+      "value": 3
+    },
+    {
+      "item": "penuh",
+      "value": 3
+    },
+    {
+      "item": "penyakit",
+      "value": -4
+    },
+    {
+      "item": "penyalahgunaan",
+      "value": -4
+    },
+    {
+      "item": "penyembah",
+      "value": -1
+    },
+    {
+      "item": "penyerangan",
+      "value": -4
+    },
+    {
+      "item": "penyesalan",
+      "value": 2
+    },
+    {
+      "item": "penyihir",
+      "value": -4
+    },
+    {
+      "item": "penyiksaan",
+      "value": -4
+    },
+    {
+      "item": "penyitaan",
+      "value": -4
+    },
+    {
+      "item": "penyok",
+      "value": -4
+    },
+    {
+      "item": "penyusutan",
+      "value": -3
+    },
+    {
+      "item": "peperangan",
+      "value": -4
+    },
+    {
+      "item": "perampok",
+      "value": -4
+    },
+    {
+      "item": "perang",
+      "value": -4
+    },
+    {
+      "item": "perangkap",
+      "value": -4
+    },
+    {
+      "item": "perbesaran",
+      "value": -1
+    },
+    {
+      "item": "perbudakan",
+      "value": -4
+    },
+    {
+      "item": "percaya",
+      "value": 4
+    },
+    {
+      "item": "perceraian",
+      "value": -4
+    },
+    {
+      "item": "percuma",
+      "value": -4
+    },
+    {
+      "item": "perdamaian",
+      "value": 5
+    },
+    {
+      "item": "perfeksionis",
+      "value": -2
+    },
+    {
+      "item": "pergolakan",
+      "value": -3
+    },
+    {
+      "item": "perhatian",
+      "value": 3
+    },
+    {
+      "item": "perih",
+      "value": -4
+    },
+    {
+      "item": "perintah",
+      "value": -2
+    },
+    {
+      "item": "perjuangan",
+      "value": 4
+    },
+    {
+      "item": "perkara",
+      "value": -2
+    },
+    {
+      "item": "perkelahian",
+      "value": -4
+    },
+    {
+      "item": "perkosaan",
+      "value": -4
+    },
+    {
+      "item": "permusuhan",
+      "value": -4
+    },
+    {
+      "item": "persaingan",
+      "value": -2
+    },
+    {
+      "item": "perselisihan",
+      "value": -4
+    },
+    {
+      "item": "perseteruan",
+      "value": -4
+    },
+    {
+      "item": "pertempuran",
+      "value": -3
+    },
+    {
+      "item": "pertengkaran",
+      "value": -4
+    },
+    {
+      "item": "pertunangan",
+      "value": 4
+    },
+    {
+      "item": "perubahan",
+      "value": 4
+    },
+    {
+      "item": "perusak",
+      "value": -4
+    },
+    {
+      "item": "perzinahan",
+      "value": -5
+    },
+    {
+      "item": "pesat",
+      "value": 3
+    },
+    {
+      "item": "pesimis",
+      "value": -4
+    },
+    {
+      "item": "pesona",
+      "value": 4
+    },
+    {
+      "item": "petcah",
+      "value": 5
+    },
+    {
+      "item": "picik",
+      "value": -4
+    },
+    {
+      "item": "pidana",
+      "value": -3
+    },
+    {
+      "item": "pikun",
+      "value": -3
+    },
+    {
+      "item": "pincang",
+      "value": -3
+    },
+    {
+      "item": "pingsan",
+      "value": -2
+    },
+    {
+      "item": "pintar",
+      "value": 4
+    },
+    {
+      "item": "pionir",
+      "value": 3
+    },
+    {
+      "item": "pisau",
+      "value": -1
+    },
+    {
+      "item": "popularitas",
+      "value": -1
+    },
+    {
+      "item": "populer",
+      "value": 4
+    },
+    {
+      "item": "positif",
+      "value": 4
+    },
+    {
+      "item": "potong",
+      "value": -1
+    },
+    {
+      "item": "prahara",
+      "value": -4
+    },
+    {
+      "item": "prestasi",
+      "value": 2
+    },
+    {
+      "item": "produktif",
+      "value": 4
+    },
+    {
+      "item": "propaganda",
+      "value": -3
+    },
+    {
+      "item": "proporsional",
+      "value": 4
+    },
+    {
+      "item": "protes",
+      "value": -2
+    },
+    {
+      "item": "provokasi",
+      "value": -4
+    },
+    {
+      "item": "puas",
+      "value": 3
+    },
+    {
+      "item": "pujian",
+      "value": 4
+    },
+    {
+      "item": "pukulan",
+      "value": -4
+    },
+    {
+      "item": "punah",
+      "value": -4
+    },
+    {
+      "item": "pura-pura",
+      "value": -4
+    },
+    {
+      "item": "pusing",
+      "value": -3
+    },
+    {
+      "item": "racun",
+      "value": -4
+    },
+    {
+      "item": "radang",
+      "value": -3
+    },
+    {
+      "item": "radian",
+      "value": -1
+    },
+    {
+      "item": "radikal",
+      "value": -4
+    },
+    {
+      "item": "ragu-ragu",
+      "value": -3
+    },
+    {
+      "item": "rahasia",
+      "value": -1
+    },
+    {
+      "item": "rahmat",
+      "value": 4
+    },
+    {
+      "item": "rakasa",
+      "value": -2
+    },
+    {
+      "item": "ramah",
+      "value": 4
+    },
+    {
+      "item": "rapi",
+      "value": 4
+    },
+    {
+      "item": "rapuh",
+      "value": -4
+    },
+    {
+      "item": "rasis",
+      "value": -4
+    },
+    {
+      "item": "ratapan",
+      "value": -4
+    },
+    {
+      "item": "reaktif",
+      "value": -2
+    },
+    {
+      "item": "redup",
+      "value": -2
+    },
+    {
+      "item": "regangan",
+      "value": -1
+    },
+    {
+      "item": "remeh",
+      "value": -3
+    },
+    {
+      "item": "rendah",
+      "value": -2
+    },
+    {
+      "item": "rengekan",
+      "value": -3
+    },
+    {
+      "item": "rentan",
+      "value": -3
+    },
+    {
+      "item": "repot",
+      "value": -2
+    },
+    {
+      "item": "repot-repot",
+      "value": -2
+    },
+    {
+      "item": "reruntuhan",
+      "value": -2
+    },
+    {
+      "item": "resah",
+      "value": -2
+    },
+    {
+      "item": "resmi",
+      "value": 4
+    },
+    {
+      "item": "revolusi",
+      "value": 3
+    },
+    {
+      "item": "rewel",
+      "value": -2
+    },
+    {
+      "item": "riang",
+      "value": 4
+    },
+    {
+      "item": "rindu",
+      "value": 4
+    },
+    {
+      "item": "risiko",
+      "value": -3
+    },
+    {
+      "item": "riuh",
+      "value": -3
+    },
+    {
+      "item": "robek",
+      "value": -4
+    },
+    {
+      "item": "roboh",
+      "value": -4
+    },
+    {
+      "item": "romantis",
+      "value": 4
+    },
+    {
+      "item": "ruam",
+      "value": -3
+    },
+    {
+      "item": "rugi",
+      "value": -4
+    },
+    {
+      "item": "rumit",
+      "value": -3
+    },
+    {
+      "item": "rumor",
+      "value": -3
+    },
+    {
+      "item": "runtuh",
+      "value": -3
+    },
+    {
+      "item": "rusak",
+      "value": -4
+    },
+    {
+      "item": "rusuh",
+      "value": -4
+    },
+    {
+      "item": "sabar",
+      "value": 4
+    },
+    {
+      "item": "sabotase",
+      "value": -4
+    },
+    {
+      "item": "saham",
+      "value": 3
+    },
+    {
+      "item": "saingan",
+      "value": -2
+    },
+    {
+      "item": "sakit",
+      "value": -4
+    },
+    {
+      "item": "sakit-sakitan",
+      "value": -5
+    },
+    {
+      "item": "salah",
+      "value": -4
+    },
+    {
+      "item": "salut",
+      "value": 4
+    },
+    {
+      "item": "samar",
+      "value": -2
+    },
+    {
+      "item": "samar-samar",
+      "value": -2
+    },
+    {
+      "item": "sampah",
+      "value": -4
+    },
+    {
+      "item": "santai",
+      "value": 3
+    },
+    {
+      "item": "saraf",
+      "value": 1
+    },
+    {
+      "item": "sayang",
+      "value": 4
+    },
+    {
+      "item": "sayangnya",
+      "value": -2
+    },
+    {
+      "item": "sebaiknya",
+      "value": -2
+    },
+    {
+      "item": "sebaliknya",
+      "value": -1
+    },
+    {
+      "item": "sebenarnya",
+      "value": 3
+    },
+    {
+      "item": "sebodoh",
+      "value": -4
+    },
+    {
+      "item": "sederhana",
+      "value": 4
+    },
+    {
+      "item": "sedih",
+      "value": -3
+    },
+    {
+      "item": "sedu-sedan",
+      "value": -4
+    },
+    {
+      "item": "seenaknya",
+      "value": -4
+    },
+    {
+      "item": "sehat",
+      "value": 4
+    },
+    {
+      "item": "sehebat",
+      "value": 4
+    },
+    {
+      "item": "sejujurnya",
+      "value": 3
+    },
+    {
+      "item": "sekarat",
+      "value": -4
+    },
+    {
+      "item": "sekeren",
+      "value": 4
+    },
+    {
+      "item": "sekilas",
+      "value": -1
+    },
+    {
+      "item": "seksi",
+      "value": 1
+    },
+    {
+      "item": "selamat",
+      "value": 4
+    },
+    {
+      "item": "semangat",
+      "value": 4
+    },
+    {
+      "item": "sembrono",
+      "value": -4
+    },
+    {
+      "item": "sementara",
+      "value": -1
+    },
+    {
+      "item": "sempurna",
+      "value": 5
+    },
+    {
+      "item": "senang",
+      "value": 4
+    },
+    {
+      "item": "sendirian",
+      "value": -2
+    },
+    {
+      "item": "sengatan",
+      "value": -2
+    },
+    {
+      "item": "sengit",
+      "value": -3
+    },
+    {
+      "item": "sengketa",
+      "value": -4
+    },
+    {
+      "item": "senjata",
+      "value": -3
+    },
+    {
+      "item": "sensasi",
+      "value": -2
+    },
+    {
+      "item": "sensitif",
+      "value": -2
+    },
+    {
+      "item": "sentimental",
+      "value": -2
+    },
+    {
+      "item": "senyum",
+      "value": 4
+    },
+    {
+      "item": "sepele",
+      "value": -3
+    },
+    {
+      "item": "seperti",
+      "value": 1
+    },
+    {
+      "item": "sepintas",
+      "value": -2
+    },
+    {
+      "item": "seram",
+      "value": -4
+    },
+    {
+      "item": "serampangan",
+      "value": -3
+    },
+    {
+      "item": "serangan",
+      "value": -4
+    },
+    {
+      "item": "serang",
+      "value": -4
+    },
+    {
+      "item": "serasi",
+      "value": 4
+    },
+    {
+      "item": "serem",
+      "value": -4
+    },
+    {
+      "item": "seringai",
+      "value": -2
+    },
+    {
+      "item": "serius",
+      "value": 4
+    },
+    {
+      "item": "seru",
+      "value": 4
+    },
+    {
+      "item": "sesat",
+      "value": -4
+    },
+    {
+      "item": "sesuai",
+      "value": 3
+    },
+    {
+      "item": "sesumbar",
+      "value": -4
+    },
+    {
+      "item": "setan",
+      "value": -4
+    },
+    {
+      "item": "setia",
+      "value": 5
+    },
+    {
+      "item": "setuju",
+      "value": 4
+    },
+    {
+      "item": "sewenang-wenang",
+      "value": -4
+    },
+    {
+      "item": "sexy",
+      "value": 3
+    },
+    {
+      "item": "sia-sia",
+      "value": -4
+    },
+    {
+      "item": "sialan",
+      "value": -5
+    },
+    {
+      "item": "siap",
+      "value": 4
+    },
+    {
+      "item": "sibuk",
+      "value": 1
+    },
+    {
+      "item": "sigap",
+      "value": 4
+    },
+    {
+      "item": "sihir",
+      "value": -4
+    },
+    {
+      "item": "sikap",
+      "value": 1
+    },
+    {
+      "item": "siksaan",
+      "value": -4
+    },
+    {
+      "item": "silakan",
+      "value": 3
+    },
+    {
+      "item": "silau",
+      "value": -2
+    },
+    {
+      "item": "siluman",
+      "value": -2
+    },
+    {
+      "item": "simpan",
+      "value": 1
+    },
+    {
+      "item": "simpati",
+      "value": 4
+    },
+    {
+      "item": "sindir",
+      "value": -4
+    },
+    {
+      "item": "singkat",
+      "value": 1
+    },
+    {
+      "item": "sinis",
+      "value": -4
+    },
+    {
+      "item": "sinting",
+      "value": -4
+    },
+    {
+      "item": "sipit",
+      "value": -4
+    },
+    {
+      "item": "sirik",
+      "value": -4
+    },
+    {
+      "item": "skandal",
+      "value": -4
+    },
+    {
+      "item": "skors",
+      "value": -3
+    },
+    {
+      "item": "sok",
+      "value": -4
+    },
+    {
+      "item": "sombong",
+      "value": -4
+    },
+    {
+      "item": "sopan",
+      "value": 4
+    },
+    {
+      "item": "spam",
+      "value": -4
+    },
+    {
+      "item": "spektakuler",
+      "value": 4
+    },
+    {
+      "item": "spesial",
+      "value": 3
+    },
+    {
+      "item": "stabil",
+      "value": 4
+    },
+    {
+      "item": "statis",
+      "value": -2
+    },
+    {
+      "item": "stres",
+      "value": -3
+    },
+    {
+      "item": "stress",
+      "value": -4
+    },
+    {
+      "item": "suka",
+      "value": 4
+    },
+    {
+      "item": "sukacita",
+      "value": 5
+    },
+    {
+      "item": "sukai",
+      "value": 3
+    },
+    {
+      "item": "sukses",
+      "value": 4
+    },
+    {
+      "item": "sulit",
+      "value": -2
+    },
+    {
+      "item": "sumbang",
+      "value": -2
+    },
+    {
+      "item": "sumpah",
+      "value": 2
+    },
+    {
+      "item": "sunyi",
+      "value": -1
+    },
+    {
+      "item": "supel",
+      "value": 4
+    },
+    {
+      "item": "super",
+      "value": 4
+    },
+    {
+      "item": "suram",
+      "value": -4
+    },
+    {
+      "item": "surga",
+      "value": 5
+    },
+    {
+      "item": "surut",
+      "value": -3
+    },
+    {
+      "item": "susah",
+      "value": -3
+    },
+    {
+      "item": "suspensi",
+      "value": 1
+    },
+    {
+      "item": "syirik",
+      "value": -4
+    },
+    {
+      "item": "syok",
+      "value": -3
+    },
+    {
+      "item": "taat",
+      "value": 4
+    },
+    {
+      "item": "tabrakan",
+      "value": -2
+    },
+    {
+      "item": "tabu",
+      "value": -4
+    },
+    {
+      "item": "tai",
+      "value": -5
+    },
+    {
+      "item": "takhayul",
+      "value": -4
+    },
+    {
+      "item": "takut",
+      "value": -3
+    },
+    {
+      "item": "tandus",
+      "value": -5
+    },
+    {
+      "item": "tangguh",
+      "value": 5
+    },
+    {
+      "item": "tanggungjawab",
+      "value": 4
+    },
+    {
+      "item": "tantangan",
+      "value": 4
+    },
+    {
+      "item": "tarif",
+      "value": -2
+    },
+    {
+      "item": "tawanan",
+      "value": -3
+    },
+    {
+      "item": "tawaran",
+      "value": 3
+    },
+    {
+      "item": "tawuran",
+      "value": -4
+    },
+    {
+      "item": "teduh",
+      "value": 4
+    },
+    {
+      "item": "tega",
+      "value": -4
+    },
+    {
+      "item": "tegang",
+      "value": -2
+    },
+    {
+      "item": "tegas",
+      "value": 4
+    },
+    {
+      "item": "teguh",
+      "value": 4
+    },
+    {
+      "item": "tekanan",
+      "value": -2
+    },
+    {
+      "item": "telat",
+      "value": -3
+    },
+    {
+      "item": "tembakan",
+      "value": -3
+    },
+    {
+      "item": "tempa",
+      "value": 3
+    },
+    {
+      "item": "tempur",
+      "value": -3
+    },
+    {
+      "item": "tenang",
+      "value": 4
+    },
+    {
+      "item": "tenggang",
+      "value": 1
+    },
+    {
+      "item": "tenggelam",
+      "value": -3
+    },
+    {
+      "item": "tengik",
+      "value": -5
+    },
+    {
+      "item": "tentu",
+      "value": 1
+    },
+    {
+      "item": "teramati",
+      "value": 2
+    },
+    {
+      "item": "terampil",
+      "value": 4
+    },
+    {
+      "item": "terang-benderang",
+      "value": 4
+    },
+    {
+      "item": "terang-terangan",
+      "value": 4
+    },
+    {
+      "item": "terasing",
+      "value": -4
+    },
+    {
+      "item": "teratur",
+      "value": 4
+    },
+    {
+      "item": "terbahak-bahak",
+      "value": -3
+    },
+    {
+      "item": "terbaik",
+      "value": 4
+    },
+    {
+      "item": "terbalik",
+      "value": -2
+    },
+    {
+      "item": "terbata-bata",
+      "value": -2
+    },
+    {
+      "item": "tewas",
+      "value": -2
+    },
+    {
+      "item": "terbelah",
+      "value": -2
+    },
+    {
+      "item": "terbiasa",
+      "value": -1
+    },
+    {
+      "item": "terburuk",
+      "value": -4
+    },
+    {
+      "item": "tercekik",
+      "value": -3
+    },
+    {
+      "item": "tercela",
+      "value": -4
+    },
+    {
+      "item": "tercerah",
+      "value": 5
+    },
+    {
+      "item": "tercinta",
+      "value": 5
+    },
+    {
+      "item": "terdakwa",
+      "value": -4
+    },
+    {
+      "item": "terdepresiasi",
+      "value": -4
+    },
+    {
+      "item": "terfavorit",
+      "value": 4
+    },
+    {
+      "item": "tergantung",
+      "value": -1
+    },
+    {
+      "item": "terhadap",
+      "value": -1
+    },
+    {
+      "item": "terhenti",
+      "value": -2
+    },
+    {
+      "item": "terhormat",
+      "value": 4
+    },
+    {
+      "item": "teriak",
+      "value": -2
+    },
+    {
+      "item": "terindah",
+      "value": 4
+    },
+    {
+      "item": "terisak",
+      "value": -2
+    },
+    {
+      "item": "terisak-isak",
+      "value": -2
+    },
+    {
+      "item": "terjaga",
+      "value": 2
+    },
+    {
+      "item": "terjamin",
+      "value": 3
+    },
+    {
+      "item": "terjawab",
+      "value": 4
+    },
+    {
+      "item": "terkatakan",
+      "value": -1
+    },
+    {
+      "item": "terkekek-kekek",
+      "value": -2
+    },
+    {
+      "item": "terkenal",
+      "value": 4
+    },
+    {
+      "item": "terkendali",
+      "value": 4
+    },
+    {
+      "item": "terkesan",
+      "value": 4
+    },
+    {
+      "item": "terkubur",
+      "value": -2
+    },
+    {
+      "item": "terkulai",
+      "value": -2
+    },
+    {
+      "item": "terkutuk",
+      "value": -5
+    },
+    {
+      "item": "terlambat",
+      "value": -4
+    },
+    {
+      "item": "terlatih",
+      "value": 4
+    },
+    {
+      "item": "terlepas",
+      "value": -3
+    },
+    {
+      "item": "terletak",
+      "value": 1
+    },
+    {
+      "item": "terlihat",
+      "value": 1
+    },
+    {
+      "item": "terlindungi",
+      "value": 4
+    },
+    {
+      "item": "termotivasi",
+      "value": 3
+    },
+    {
+      "item": "ternilai",
+      "value": 3
+    },
+    {
+      "item": "terobsesi",
+      "value": -2
+    },
+    {
+      "item": "teror",
+      "value": -4
+    },
+    {
+      "item": "teroris",
+      "value": -4
+    },
+    {
+      "item": "terpaku",
+      "value": -2
+    },
+    {
+      "item": "terpencil",
+      "value": -2
+    },
+    {
+      "item": "terperanjat",
+      "value": -2
+    },
+    {
+      "item": "tersedak",
+      "value": -2
+    },
+    {
+      "item": "tersedu-sedu",
+      "value": -3
+    },
+    {
+      "item": "terselubung",
+      "value": -2
+    },
+    {
+      "item": "tersembuhkan",
+      "value": 3
+    },
+    {
+      "item": "tersentak",
+      "value": -2
+    },
+    {
+      "item": "tersenyum",
+      "value": 4
+    },
+    {
+      "item": "terserah",
+      "value": -3
+    },
+    {
+      "item": "terserang",
+      "value": -3
+    },
+    {
+      "item": "tertahankan",
+      "value": -1
+    },
+    {
+      "item": "tertarik",
+      "value": 4
+    },
+    {
+      "item": "tertawa",
+      "value": 4
+    },
+    {
+      "item": "tertegun",
+      "value": -1
+    },
+    {
+      "item": "tertekan",
+      "value": -4
+    },
+    {
+      "item": "tertunduk",
+      "value": -1
+    },
+    {
+      "item": "tertutup",
+      "value": -4
+    },
+    {
+      "item": "tiba-tiba",
+      "value": -1
+    },
+    {
+      "item": "tinggi",
+      "value": 2
+    },
+    {
+      "item": "tinju",
+      "value": -1
+    },
+    {
+      "item": "tipis",
+      "value": -1
+    },
+    {
+      "item": "tipu",
+      "value": -4
+    },
+    {
+      "item": "tipuan",
+      "value": -4
+    },
+    {
+      "item": "toleran",
+      "value": 4
+    },
+    {
+      "item": "toleransi",
+      "value": 4
+    },
+    {
+      "item": "tolol",
+      "value": -5
+    },
+    {
+      "item": "tombak",
+      "value": -1
+    },
+    {
+      "item": "top",
+      "value": 4
+    },
+    {
+      "item": "totalitas",
+      "value": 4
+    },
+    {
+      "item": "tragedi",
+      "value": -4
+    },
+    {
+      "item": "tragis",
+      "value": -4
+    },
+    {
+      "item": "trauma",
+      "value": -4
+    },
+    {
+      "item": "tua",
+      "value": -4
+    },
+    {
+      "item": "tuduhan",
+      "value": -4
+    },
+    {
+      "item": "tuh",
+      "value": -2
+    },
+    {
+      "item": "tuli",
+      "value": -2
+    },
+    {
+      "item": "tulus",
+      "value": 5
+    },
+    {
+      "item": "tumpahan",
+      "value": -3
+    },
+    {
+      "item": "tumpul",
+      "value": -2
+    },
+    {
+      "item": "tunduk",
+      "value": -2
+    },
+    {
+      "item": "tunggakan",
+      "value": -2
+    },
+    {
+      "item": "turun",
+      "value": -4
+    },
+    {
+      "item": "tusukan",
+      "value": -2
+    },
+    {
+      "item": "udik",
+      "value": -5
+    },
+    {
+      "item": "ultimatum",
+      "value": -1
+    },
+    {
+      "item": "umpan",
+      "value": -2
+    },
+    {
+      "item": "unggul",
+      "value": 4
+    },
+    {
+      "item": "unik",
+      "value": 5
+    },
+    {
+      "item": "usang",
+      "value": -4
+    },
+    {
+      "item": "usil",
+      "value": -3
+    },
+    {
+      "item": "usir",
+      "value": -4
+    },
+    {
+      "item": "valid",
+      "value": 4
+    },
+    {
+      "item": "vulgar",
+      "value": -4
+    },
+    {
+      "item": "wabah",
+      "value": -4
+    },
+    {
+      "item": "waduh",
+      "value": -3
+    },
+    {
+      "item": "wah",
+      "value": 4
+    },
+    {
+      "item": "wajar",
+      "value": 3
+    },
+    {
+      "item": "wakil",
+      "value": 3
+    },
+    {
+      "item": "waktunya",
+      "value": 1
+    },
+    {
+      "item": "waria",
+      "value": -4
+    },
+    {
+      "item": "waspada",
+      "value": 4
+    },
+    {
+      "item": "waspadalah",
+      "value": 3
+    },
+    {
+      "item": "wow",
+      "value": 4
+    },
+    {
+      "item": "wtf",
+      "value": -4
+    },
+    {
+      "item": "yatim",
+      "value": -1
+    },
+    {
+      "item": "yeah",
+      "value": 3
+    },
+    {
+      "item": "zina",
+      "value": -5
+    }
+  ],
+  "negasi": [
+    "belum",
+    "bukan",
+    "tak",
+    "tanpa",
+    "tidak",
+    "pantang",
+    "jangan",
+    "bukanlah",
+    "sok",
+    "tidak pernah"
+  ],
+  "tanya": [
+    "akankah",
+    "apakah",
+    "bagaimana",
+    "bagaimanakah",
+    "benarkah",
+    "berapa",
+    "berapakah",
+    "betulkah",
+    "bilamanakah",
+    "dimanakah",
+    "kemanakah",
+    "kenapa",
+    "kenapakah",
+    "mengapa",
+    "mengapakah",
+    "salahkah",
+    "siapa",
+    "siapakah",
+    "tidak ya",
+    "belum ya"
+  ],
+  "tanya": [
+    "akankah",
+    "apakah",
+    "bagaimana",
+    "bagaimanakah",
+    "benarkah",
+    "berapa",
+    "berapakah",
+    "betulkah",
+    "bilamanakah",
+    "dimanakah",
+    "kemanakah",
+    "kenapa",
+    "kenapakah",
+    "mengapa",
+    "mengapakah",
+    "salahkah",
+    "siapa",
+    "siapakah",
+    "tidak ya",
+    "belum ya"
+  ]
+}
