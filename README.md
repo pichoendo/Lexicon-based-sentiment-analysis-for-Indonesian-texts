@@ -20,7 +20,7 @@ This project implements a sentiment analysis system that uses a custom lexicon-b
 You can install the dependencies using the following command:
 
 ```bash
-pip install pandas numpy scikit-learn
+pip install pandas numpy
 ```
 
 ## How It Works
