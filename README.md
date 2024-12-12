@@ -36,9 +36,6 @@ Emoticons: Emoticons with sentiment association (e.g., ":)" = positive).
 Idioms: Common phrases that have a specific sentiment.
 Booster Words: Words that amplify the sentiment (e.g., "really", "very").
 
-3. Stopword Removal
-Stopwords (common words like "the", "is", etc.) are removed to improve the accuracy of sentiment scoring.
-
 4. Negation Handling
 If a negation word (like "not") precedes a sentiment word, the sentiment score of that word is reversed.
 
