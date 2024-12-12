@@ -83,5 +83,5 @@ class SentimentAnalysis:
         return {
             "classified_text": sentence,
             "scores": all_scores.tolist(),
-            "classification": "Positive" if result == 1 else "Negative"
+            "classification": "POSITIVE" if result == 1 else "NEGATIVE"
         }
