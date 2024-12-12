@@ -15,7 +15,6 @@ This project implements a sentiment analysis system that uses a custom lexicon-b
 - Required Python libraries:
   - `pandas`
   - `numpy`
-  - `scikit-learn`
   - `re`
 
 You can install the dependencies using the following command:
